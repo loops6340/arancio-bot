@@ -1,0 +1,22 @@
+{
+  "name": "arancio-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "@discordjs/voice": "^0.8.0",
+    "axios": "^0.26.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.6.0",
+    "ffmpeg": "^0.0.4",
+    "libsodium-wrappers": "^0.7.9"
+  }
+}
