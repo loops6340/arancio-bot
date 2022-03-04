@@ -29,11 +29,9 @@ const meditacionesFrases = [
     "La mayoría de los objetos, de que se admira el vulgo, se reducen a ciertos géneros universales, a aquellas substancias dotadas de una sola forma y de una naturaleza, cuales son las piedras, la madera, las higueras, los olivos. Los hombres de mediana esfera tienden a los seres que poseen alma sensitiva, como los rebaños de ganado mayor y menor. Los hombres de más honor se inclinan a los seres dotados de alma racional, pero no en cuanto es alma universal del mundo, sino de la que se aplica preferentemente a las artes o a alguna forma de ingenio; o, simplemente, gustan poseer un crecido número de esclavos. Mas el hombre que aprecia debidamente su alma racional, en cuanto es universal y social, dejado aparte cualquier otro cuidado, procura guardar, ante todo, en su alma aptitudes y movimientos conformes a la razón y al bien común; y trabaja para que su semejante consiga este fin.",
     "Es vergonzoso que cuando tu cuerpo no renuncia a esta vida, renuncie la primera tu alma.",
     "¿Has visto alguna vez una mano cercenada, un pie o una cabeza cortada y lanzada a cierta distancia del resto del cuerpo? Lo mismo hace consigo, según sus medios, el que no acepta lo que le acaeciere, y se separa a sí mismo del conjunto o ejecuta algo no conducente al interés común. Y tú, en cierto modo, te has excluido de la unión peculiar de la naturaleza, de la cual eres miembro por tu nacimiento: ahora te cercenaste tú mismo. Pero, tan admirablemente se dispuso eso, que puedes reunirte de nuevo al todo. El hombre es el único ser a quien Dios otorgó la facultad de incorporarse de nuevo con su todo, después de haberse separado y cercenado. Considera, por tanto, la bondad con que Dios ha honrado al hombre: ha puesto en su mano el que no se separase de todo punto del universo, y que, una vez segregado, pudiese restituirse de nuevo, fundiéndose con él y recuperando el lugar de miembro participante.",
-    "Un obstáculo que dificulte la sensación es un mal para la naturaleza sensitiva; un obstáculo al apetito es asimismo un mal para la naturaleza sensitiva. Del mismo modo puede haber algún otro obstáculo y algún otro mal para la constitución vegetativa. Así pues, un estorbo a la inteligencia será un mal para la naturaleza intelectiva. Aplícate todo esto a ti mismo. ¿Te sobreviene un dolor, un placer? Añade esto a la sensibilidad. ¿Le sobrevino un embarazo al movimiento instintivo? Si te dejas llevar por este movimiento sin reserva, ya en esto mismo estaba el daño de tu naturaleza racional; pero si conservas tu inteligencia no serás aún lesionado ni obstaculizado. Ninguna otra cosa suele oponerse a lo que es propio de la inteligencia más que ella misma; pues a ella no le llegan ni el fuego, ni el hierro, ni el tirano, ni la calumnia, ni otra cosa. Cuando consigue ser como una esfera bien redondeada, continúa siéndolo.",
-    "",
-    "",
+    "Un obstáculo que dificulte la sensación es un mal para la naturaleza sensitiva; un obstáculo al apetito es asimismo un mal para la naturaleza sensitiva. Del mismo modo puede haber algún otro obstáculo y algún otro mal para la constitución vegetativa. Así pues, un estorbo a la inteligencia será un mal para la naturaleza intelectiva. Aplícate todo esto a ti mismo. ¿Te sobreviene un dolor, un placer? Añade esto a la sensibilidad. ¿Le sobrevino un embarazo al movimiento instintivo? Si te dejas llevar por este movimiento sin reserva, ya en esto mismo estaba el daño de tu naturaleza racional; pero si conservas tu inteligencia no serás aún lesionado ni obstaculizado. Ninguna otra cosa suele oponerse a lo que es propio de la inteligencia más que ella misma; pues a ella no le llegan ni el fuego, ni el hierro, ni el tirano, ni la calumnia, ni otra cosa. Cuando consigue ser como una esfera bien redondeada, continúa siéndolo."
 
-]
+];
 
 const cincoAnillosFrases = [
     `Para las personas que quieran aprender mi ciencia militar, existen normas para el aprendizaje de este arte:
@@ -46,24 +44,22 @@ const cincoAnillosFrases = [
     8.Sed cuidadosos incluso en los asuntos pequeños
     9.No hagaís nada que sea inútil.`,
     `Existe el contagio en todo. Incluso el sueño puede ser contagiado, lo mismo que el bostezo. Existe el contagio incluso de una época
-    En la ciencia militar a gran escala, cuando los adversarios están excitados y con toda evidencia tienen prisa por actuar, os comportáis como si estuvierais somnolientos, dando la apariencia de estar completamente relajados y tranquilos. HAced esto, y los mismos adversarios se verán influidos por este estado de ánimo y perderán su entusiamo.`,
-    "",
-    "",
-    "",
-    "",
-]
+    En la ciencia militar a gran escala, cuando los adversarios están excitados y con toda evidencia tienen prisa por actuar, os comportáis como si estuvierais somnolientos, dando la apariencia de estar completamente relajados y tranquilos. Haced esto, y los mismos adversarios se verán influidos por este estado de ánimo y perderán su entusiamo.`
+];
 
-function Libro(titulo, autor, fecha, frases, enlace){
+function Libro(titulo, autor, fecha, frases, foto){
     this.titulo = titulo
     this.autor = autor
     this.fecha = fecha
     this.frases = frases
-    this.enlace = enlace
-}
-
+    this.foto = foto
+};
 
 
 
 const libros = [
-    new Libro("Meditaciones", "Marco Aurelio", "Circa 170", meditacionesFrases, "https://cdn.pruebat.org/recursos/recursos/Meditaciones-Marco-Aurelio.pdf")
-]
+    new Libro("Meditaciones", "Marco Aurelio", "Circa 170", meditacionesFrases, "https://frasesdelavida.com/wp-content/uploads/2018/10/Frases-de-Marco-Aurelio.jpg"),
+    new Libro("El libro de los 5 anillos", "Miyamoto Musashi", "19 de mayo de 1965", cincoAnillosFrases, "https://artelista.s3.amazonaws.com/obras/big/7/9/8107100370944657.jpg")
+];
+
+module.exports.libros=libros;
