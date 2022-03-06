@@ -8,14 +8,14 @@ const imagenesDoxxeo = ["https://cdn.discordapp.com/attachments/9241750074945699
 const danbooruRandom = "https://danbooru.donmai.us/posts/random.json?"
 const danbooruSafe = "+rating:safe"
 const literalmenteAso = [`${danbooruRandom}tags=m200_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=hatoba_tsugu${danbooruSafe}`, `${danbooruRandom}tags=nagato_yuki${danbooruSafe}`, `${danbooruRandom}tags=okita_souji_(fate)${danbooruSafe}`, `${danbooruRandom}tags=hisui_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=oda_nobunaga_(fate)${danbooruSafe}`, `${danbooruRandom}tags=nazrin${danbooruSafe}`, `${danbooruRandom}tags=bernadetta_von_varley${danbooruSafe}`, `${danbooruRandom}tags=ryougi_shiki${danbooruSafe}`]
-const literalmenteZerhin = [`${danbooruRandom}tags=anchovy_(girls_und_panzer)${danbooruSafe}`, `${danbooruRandom}tags=satanichia_kurumizawa_mcdowell${danbooruSafe}`, `${danbooruRandom}tags=m14_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=s.a.t.8_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=super-shorty_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=usada_hikaru${danbooruSafe}`, `${danbooruRandom}tags=shiki_eiki${danbooruSafe}`]
+const literalmenteZerhin = [`${danbooruRandom}tags=anchovy_(girls_und_panzer)${danbooruSafe}`, `${danbooruRandom}tags=satanichia_kurumizawa_mcdowell${danbooruSafe}`, `${danbooruRandom}tags=m14_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=s.a.t.8_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=super-shorty_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=usada_hikaru${danbooruSafe}`, `${danbooruRandom}tags=shiki_eiki${danbooruSafe}`, `${danbooruRandom}tags=el_condor_pasa_(umamusume)${danbooruSafe}`]
 const literalmenteHola = [`${danbooruRandom}tags=kuroki_tomoko${danbooruSafe}`, `${danbooruRandom}tags=kaname_madoka${danbooruSafe}`, `${danbooruRandom}tags=yumemi_riamu${danbooruSafe}`, `${danbooruRandom}tags=ohara_mari${danbooruSafe}`, `${danbooruRandom}tags=majima_gorou${danbooruSafe}` ]
 const literalmenteVenom = [`${danbooruRandom}tags=aisaka_taiga${danbooruSafe}`]
 const literalmenteMeiggs = [`${danbooruRandom}tags=nekomata_okayu${danbooruSafe}`]
-const literalmenteGor = [`${danbooruRandom}tags=louise_francoise_le_blanc_de_la_valliere${danbooruSafe}`, `${danbooruRandom}tags=mitsurugi_meiya${danbooruSafe}`, `${danbooruRandom}tags=mima_(touhou)${danbooruSafe}`, `${danbooruRandom}tags=kohaku_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=dai_mahou_touge${danbooruSafe}`, `${danbooruRandom}tags=m16a1_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=dejiko${danbooruSafe}`, `${danbooruRandom}tags=negev_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=yanfei_(genshin_impact)${danbooruSafe}`, `${danbooruRandom}tags=vanilla_h${danbooruSafe}`, `${danbooruRandom}tags=saya_(saya_no_uta)${danbooruSafe}`, `${danbooruRandom}tags=fubuki_(one-punch_man)${danbooruSafe}`]
+const literalmenteGor = [`${danbooruRandom}tags=louise_francoise_le_blanc_de_la_valliere${danbooruSafe}`, `${danbooruRandom}tags=mitsurugi_meiya${danbooruSafe}`, `${danbooruRandom}tags=mima_(touhou)${danbooruSafe}`, `${danbooruRandom}tags=kohaku_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=dai_mahou_touge${danbooruSafe}`, `${danbooruRandom}tags=m16a1_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=dejiko${danbooruSafe}`, `${danbooruRandom}tags=negev_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=yanfei_(genshin_impact)${danbooruSafe}`, `${danbooruRandom}tags=vanilla_h${danbooruSafe}`, `${danbooruRandom}tags=saya_(saya_no_uta)${danbooruSafe}`, `${danbooruRandom}tags=fubuki_(one-punch_man)${danbooruSafe}`, `${danbooruRandom}tags=char_aznable${danbooruSafe}`, `${danbooruRandom}tags=kanye_west${danbooruSafe}`]
 const literalmenteLoops = [`${danbooruRandom}tags=kirigiri_kyouko${danbooruSafe}`, `${danbooruRandom}tags=nanami_chiaki${danbooruSafe}`, `${danbooruRandom}tags=lelouch${danbooruSafe}`]
 const literalmenteLac = [`${danbooruRandom}tags=al_azif${danbooruSafe}`, `${danbooruRandom}tags=noelle_(genshin_impact)${danbooruSafe}`, `https://g.tenor.com/v1/random?q=super%20robot%20wars&key=RL591LH7DHMW&limit=1`]
-const literalmenteNum = [`${danbooruRandom}tags=akemi_homura${danbooruSafe}`, `${danbooruRandom}tags=yoshikawa_chinatsu${danbooruSafe}`, `${danbooruRandom}tags=senko_(sewayaki_kitsune_no_senko-san)${danbooruSafe}`, `${danbooruRandom}tags=chieru_(princess_connect!)${danbooruSafe}`, `${danbooruRandom}tags=hoshizora_miyuki${danbooruSafe}, ${danbooruRandom}tags=rosehip_(girls_und_panzer)${danbooruSafe}`]
+const literalmenteNum = [`${danbooruRandom}tags=akemi_homura${danbooruSafe}`, `${danbooruRandom}tags=yoshikawa_chinatsu${danbooruSafe}`, `${danbooruRandom}tags=senko_(sewayaki_kitsune_no_senko-san)${danbooruSafe}`, `${danbooruRandom}tags=chieru_(princess_connect!)${danbooruSafe}`, `${danbooruRandom}tags=hoshizora_miyuki${danbooruSafe}`, `${danbooruRandom}tags=rosehip_(girls_und_panzer)${danbooruSafe}`, `${danbooruRandom}tags=dante_(devil_may_cry)${danbooruSafe}`, `${danbooruRandom}tags=char_aznable${danbooruSafe}`, `${danbooruRandom}tags=uchiha_itachi${danbooruSafe}`, `${danbooruRandom}tags=yoshikawa_chinatsu${danbooruSafe}`, `${danbooruRandom}tags=nakano_azusa${danbooruSafe}`, `${danbooruRandom}tags=godot_(ace_attorney)${danbooruSafe}`, `https://g.tenor.com/v1/random?q=mobile%20suit%20gundam&key=RL591LH7DHMW&limit=1`, `${danbooruRandom}tags=ryuk${danbooruSafe}`]
 const client = new DiscordJS.Client({
   intents: [
     "GUILDS",
@@ -57,7 +57,8 @@ client.on('messageCreate', async (message) => {
   if (message.content.startsWith(bot.prefix)) {
       const command = message.content.slice(bot.prefix.length).split(" ")[0];
       console.log(command)
-      const args = message.content.slice(command.length+bot.prefix.length);
+      const args = message.content.slice(command.length+bot.prefix.length+1);
+      console.log(args)
       if (command === "ASOPLATA") {
           message.channel.send("MATAR AL DESGRACIADO XD")
       } else if (command === "doxxear") {
@@ -185,13 +186,18 @@ GRAN PAIS XD`)
            }       
         }
         else if(args === "num"){
-          const request = await axios.get(literalmenteNum[Math.floor(Math.random()*literalmenteNum.length)]);
-          const imagenRandom = await request.data.file_url
-          if(imagenRandom === undefined){
+          const indexRandom = literalmenteNum[Math.floor(Math.random()*literalmenteNum.length)]
+          const request = await axios.get(indexRandom);
+          if(indexRandom === literalmenteNum[12]){
+            const gifardo = request.data.results[0].url
+            message.channel.send(gifardo)
+            }
+          else if(request.data === undefined){
             literalCagada()
           }
           else{
-        message.channel.send(imagenRandom)
+            const imagenRandom = await request.data.file_url    
+            message.channel.send(imagenRandom)
          }
       }
       else{
@@ -199,10 +205,14 @@ GRAN PAIS XD`)
       }
         }
         else if (command === "tweet"){
-          const tweet = args
-          twitterClient.post('https://api.twitter.com/1.1/statuses/update.json', {status: tweet},  function(error, tweet, response) {
-            if(error) message.channel.send("DEJA DE JODER CARAJO");
-            console.log(response);  // Raw response object.
+          const tweetPuesto = args
+          message.channel.send(`HUMILLANDO FEMINAZIS...`)
+          twitterClient.post('https://api.twitter.com/1.1/statuses/update.json', {status: tweetPuesto},  function(error, tweet, response) {
+            if(error) message.channel.send("DEJA DE JODER MIERDA!!!!!!!!!!!");
+            else{
+            const id = tweet.id_str;
+            message.channel.send(`LISTO YA LAS ULTRAJE, ACA ESTA EL LINK: https://twitter.com/Asoplatanazo/status/${id}`)
+            }
           });
       }
         else if (command === "invitarmierda"){
