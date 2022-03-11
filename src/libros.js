@@ -143,12 +143,14 @@ const unabomberFrases = [
     
 ]
 
-function Libro(titulo, autor, fecha, frases, foto){
-    this.titulo = titulo
-    this.autor = autor
-    this.fecha = fecha
-    this.frases = frases
-    this.foto = foto
+class Libro {
+    constructor (titulo, autor, fecha, frases, foto) {
+        this.titulo = titulo
+        this.autor = autor
+        this.fecha = fecha
+        this.frases = frases
+        this.foto = foto
+    }
 };
 
 
