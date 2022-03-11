@@ -1,6 +1,7 @@
 const { default: axios } = require("axios")
 const DiscordJS = require("discord.js")
-const { Permissions } = require("discord.js")
+const { Client, Intents, MessageAttachment, MessageMentions } = require('discord.js');
+const Canvas = require('canvas');
 const { libros } = require("./libros.js")
 const Twitter = require ('twitter')
 require("dotenv").config()
@@ -8,17 +9,17 @@ require("./libros.js")
 const { MessageEmbed } = require('discord.js');
 
 
-const imagenesDoxxeo = ["https://cdn.discordapp.com/attachments/925147123857629257/951437214057898044/250.png, https://cdn.discordapp.com/attachments/924175007494569984/948444002775105556/gosling.jpg", "https://media.discordapp.net/attachments/684197130801512469/873448820548173886/FB_IMG_1625793045511.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443507390050314/thanos.0.jpeg", "https://cdn.discordapp.com/attachments/924175007494569984/948443536880205924/Troll_face.png", "https://media.discordapp.net/attachments/684197130801512469/873450402463498240/trejo11.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443366927007824/big_knuckknuck.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443266087522355/24448_Pulp-Fiction-reestreno-espana-cines.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948443242972729344/poison.png","https://cdn.discordapp.com/attachments/924175007494569984/948443123430883398/1522543437757.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948443024923447326/Joker-790658206-large.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442948670996480/goodfellas.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442901074047047/Fullenght.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442855867834368/frost.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442827363323914/FLl8NnTaMAI2NYf.jpg", "https://media.discordapp.net/attachments/552168964076208143/718961911890444298/IMG_20200605_011506.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442703920762950/e23c2f2b418bbab27b239d67ae6ddc31.png", "http://pm1.narvii.com/6207/d114704ab345a911e3e8a59c7e11840c27d16cdd_00.jpg", "https://lastfm.freetls.fastly.net/i/u/500x500/01cb72e57c87fa4dfecbec94cf3c5c82.jpg", "https://media.revistagq.com/photos/5ca6057e071fbf7b7b71aaa8/16:9/w_1280,c_limit/tyler_durden_2602.jpg", "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/60c21dae537b04cf56271def_drive-2.jpg", "https://media.vozpopuli.com/2021/02/caracterizacion-Patrick-Bateman-Mary-Harron_896920346_1372092_1020x574.jpg", "https://i.ytimg.com/vi/fiBLgEx6svA/maxresdefault.jpg", "https://gcdn.lanetaneta.com/wp-content/uploads/2022/01/1641108913_La-estrella-de-Impractical-Jokers-Joe-Gatto-anuncia-su-salida.jpg", "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/04/95797-trollface.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948441609786253322/CR_967926_f20505bf0d4242c0b587873e6ef6f768_tecnologia_thumb_fb.png", "https://cdn.discordapp.com/attachments/924175007494569984/948441598872682546/1639109873075.jpg", "https://media.discordapp.net/attachments/924175007494569984/948441784567103498/unknown.png", "https://media.discordapp.net/attachments/684115741133242369/752344986594574336/sk997k5zlpd11.png", "https://media.discordapp.net/attachments/684115741133242369/747307911730036776/1598235013801.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442302781751326/1645135124086.png", "https://cdni.rt.com/actualidad/public_images/2016.08/article/57bee01ec461888a0d8b4567.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442457308299304/aso.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442514665381890/breaking_bad_vince_gilligan_amc.webp"]
+const imagenesDoxxeo = ["https://cdn.discordapp.com/attachments/924175007494569984/948444002775105556/gosling.jpg", "https://media.discordapp.net/attachments/684197130801512469/873448820548173886/FB_IMG_1625793045511.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443507390050314/thanos.0.jpeg", "https://cdn.discordapp.com/attachments/924175007494569984/948443536880205924/Troll_face.png", "https://media.discordapp.net/attachments/684197130801512469/873450402463498240/trejo11.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443366927007824/big_knuckknuck.png", "https://cdn.discordapp.com/attachments/924175007494569984/948443266087522355/24448_Pulp-Fiction-reestreno-espana-cines.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948443242972729344/poison.png","https://cdn.discordapp.com/attachments/924175007494569984/948443123430883398/1522543437757.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948443024923447326/Joker-790658206-large.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442948670996480/goodfellas.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442901074047047/Fullenght.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442855867834368/frost.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442827363323914/FLl8NnTaMAI2NYf.jpg", "https://media.discordapp.net/attachments/552168964076208143/718961911890444298/IMG_20200605_011506.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442703920762950/e23c2f2b418bbab27b239d67ae6ddc31.png", "http://pm1.narvii.com/6207/d114704ab345a911e3e8a59c7e11840c27d16cdd_00.jpg", "https://lastfm.freetls.fastly.net/i/u/500x500/01cb72e57c87fa4dfecbec94cf3c5c82.jpg", "https://media.revistagq.com/photos/5ca6057e071fbf7b7b71aaa8/16:9/w_1280,c_limit/tyler_durden_2602.jpg", "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/60c21dae537b04cf56271def_drive-2.jpg", "https://media.vozpopuli.com/2021/02/caracterizacion-Patrick-Bateman-Mary-Harron_896920346_1372092_1020x574.jpg", "https://i.ytimg.com/vi/fiBLgEx6svA/maxresdefault.jpg", "https://gcdn.lanetaneta.com/wp-content/uploads/2022/01/1641108913_La-estrella-de-Impractical-Jokers-Joe-Gatto-anuncia-su-salida.jpg", "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/04/95797-trollface.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948441609786253322/CR_967926_f20505bf0d4242c0b587873e6ef6f768_tecnologia_thumb_fb.png", "https://cdn.discordapp.com/attachments/924175007494569984/948441598872682546/1639109873075.jpg", "https://media.discordapp.net/attachments/924175007494569984/948441784567103498/unknown.png", "https://media.discordapp.net/attachments/684115741133242369/752344986594574336/sk997k5zlpd11.png", "https://media.discordapp.net/attachments/684115741133242369/747307911730036776/1598235013801.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442302781751326/1645135124086.png", "https://cdni.rt.com/actualidad/public_images/2016.08/article/57bee01ec461888a0d8b4567.jpg", "https://cdn.discordapp.com/attachments/924175007494569984/948442457308299304/aso.png", "https://cdn.discordapp.com/attachments/924175007494569984/948442514665381890/breaking_bad_vince_gilligan_amc.webp"]
 const danbooruRandom = "https://danbooru.donmai.us/posts/random.json?"
 const danbooruSafe = "+rating:safe"
 
 
-const literalmenteAso = [`${danbooruRandom}tags=m200_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=hatoba_tsugu${danbooruSafe}`, `${danbooruRandom}tags=nagato_yuki${danbooruSafe}`, `${danbooruRandom}tags=okita_souji_(fate)${danbooruSafe}`, `${danbooruRandom}tags=hisui_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=oda_nobunaga_(fate)${danbooruSafe}`, `${danbooruRandom}tags=nazrin${danbooruSafe}`, `${danbooruRandom}tags=bernadetta_von_varley${danbooruSafe}`, `${danbooruRandom}tags=ryougi_shiki${danbooruSafe}`, `${danbooruRandom}tags=shaw_(arknights)${danbooruSafe}`]
+const literalmenteAso = [`${danbooruRandom}tags=m200_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=hatoba_tsugu${danbooruSafe}`, `${danbooruRandom}tags=nagato_yuki${danbooruSafe}`, `${danbooruRandom}tags=okita_souji_(fate)${danbooruSafe}`, `${danbooruRandom}tags=hisui_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=oda_nobunaga_(fate)${danbooruSafe}`, `${danbooruRandom}tags=nazrin${danbooruSafe}`, `${danbooruRandom}tags=bernadetta_von_varley${danbooruSafe}`, `${danbooruRandom}tags=ryougi_shiki${danbooruSafe}`]
 const literalmenteZerhin = [`${danbooruRandom}tags=anchovy_(girls_und_panzer)${danbooruSafe}`, `${danbooruRandom}tags=satanichia_kurumizawa_mcdowell${danbooruSafe}`, `${danbooruRandom}tags=m14_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=s.a.t.8_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=super-shorty_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=usada_hikaru${danbooruSafe}`, `${danbooruRandom}tags=shiki_eiki${danbooruSafe}`, `${danbooruRandom}tags=el_condor_pasa_(umamusume)${danbooruSafe}`, `${danbooruRandom}tags=tressa_(octopath_traveler)${danbooruSafe}`]
 const literalmenteHola = [`${danbooruRandom}tags=kuroki_tomoko${danbooruSafe}`, `${danbooruRandom}tags=kaname_madoka${danbooruSafe}`, `${danbooruRandom}tags=yumemi_riamu${danbooruSafe}`, `${danbooruRandom}tags=ohara_mari${danbooruSafe}`, `${danbooruRandom}tags=majima_gorou${danbooruSafe}` ]
 const literalmenteVenom = [`${danbooruRandom}tags=aisaka_taiga${danbooruSafe}`]
 const literalmenteMeiggs = [`${danbooruRandom}tags=nekomata_okayu${danbooruSafe}`]
-const literalmenteGor = [`${danbooruRandom}tags=louise_francoise_le_blanc_de_la_valliere${danbooruSafe}`, `${danbooruRandom}tags=mitsurugi_meiya${danbooruSafe}`, `${danbooruRandom}tags=mima_(touhou)${danbooruSafe}`, `${danbooruRandom}tags=kohaku_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=dai_mahou_touge${danbooruSafe}`, `${danbooruRandom}tags=m16a1_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=dejiko${danbooruSafe}`, `${danbooruRandom}tags=negev_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=yanfei_(genshin_impact)${danbooruSafe}`, `${danbooruRandom}tags=vanilla_h${danbooruSafe}`, `${danbooruRandom}tags=saya_(saya_no_uta)${danbooruSafe}`, `${danbooruRandom}tags=fubuki_(one-punch_man)${danbooruSafe}`, `${danbooruRandom}tags=char_aznable${danbooruSafe}`, `${danbooruRandom}tags=kanye_west${danbooruSafe}`, `${danbooruRandom}tags=dobermann_(arknights)${danbooruSafe}`]
+const literalmenteGor = [`${danbooruRandom}tags=louise_francoise_le_blanc_de_la_valliere${danbooruSafe}`, `${danbooruRandom}tags=mitsurugi_meiya${danbooruSafe}`, `${danbooruRandom}tags=mima_(touhou)${danbooruSafe}`, `${danbooruRandom}tags=kohaku_(tsukihime)${danbooruSafe}`, `${danbooruRandom}tags=dai_mahou_touge${danbooruSafe}`, `${danbooruRandom}tags=m16a1_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=dejiko${danbooruSafe}`, `${danbooruRandom}tags=negev_(girls'_frontline)${danbooruSafe}`, `${danbooruRandom}tags=yanfei_(genshin_impact)${danbooruSafe}`, `${danbooruRandom}tags=vanilla_h${danbooruSafe}`, `${danbooruRandom}tags=saya_(saya_no_uta)${danbooruSafe}`, `${danbooruRandom}tags=fubuki_(one-punch_man)${danbooruSafe}`, `${danbooruRandom}tags=char_aznable${danbooruSafe}`, `${danbooruRandom}tags=kanye_west${danbooruSafe}`]
 const literalmenteLoops = [`${danbooruRandom}tags=kirigiri_kyouko${danbooruSafe}`, `${danbooruRandom}tags=nanami_chiaki${danbooruSafe}`, `${danbooruRandom}tags=lelouch${danbooruSafe}`]
 const literalmenteLac = [`${danbooruRandom}tags=al_azif${danbooruSafe}`, `${danbooruRandom}tags=noelle_(genshin_impact)${danbooruSafe}`, `https://g.tenor.com/v1/random?q=super%20robot%20wars&key=RL591LH7DHMW&limit=1`]
 const literalmenteNum = [`${danbooruRandom}tags=akemi_homura${danbooruSafe}`, `${danbooruRandom}tags=yoshikawa_chinatsu${danbooruSafe}`, `${danbooruRandom}tags=senko_(sewayaki_kitsune_no_senko-san)${danbooruSafe}`, `${danbooruRandom}tags=chieru_(princess_connect!)${danbooruSafe}`, `${danbooruRandom}tags=hoshizora_miyuki${danbooruSafe}`, `${danbooruRandom}tags=rosehip_(girls_und_panzer)${danbooruSafe}`, `${danbooruRandom}tags=dante_(devil_may_cry)${danbooruSafe}`, `${danbooruRandom}tags=char_aznable${danbooruSafe}`, `${danbooruRandom}tags=uchiha_itachi${danbooruSafe}`, `${danbooruRandom}tags=yoshikawa_chinatsu${danbooruSafe}`, `${danbooruRandom}tags=nakano_azusa${danbooruSafe}`, `${danbooruRandom}tags=godot_(ace_attorney)${danbooruSafe}`, `https://g.tenor.com/v1/random?q=mobile%20suit%20gundam&key=RL591LH7DHMW&limit=1`, `${danbooruRandom}tags=ryuk${danbooruSafe}`]
@@ -70,10 +71,15 @@ client.on('messageCreate', async (message) => {
   }
   let guild = message.guild
   if (message.content.startsWith(bot.prefix)) {
+
+
+      //ACA ESTAN LOS COMANDOS Y EL ARGUMENTO XD :V
       const command = message.content.slice(bot.prefix.length).split(" ")[0];
       console.log(command)
       const args = message.content.slice(command.length+bot.prefix.length+1);
       console.log(args)
+      
+      //////////////////////////////////////////////
       if (command === "ASOPLATA") {
           message.channel.send("MATAR AL DESGRACIADO XD")
       } else if (command === "doxxear") {
@@ -247,10 +253,29 @@ GRAN PAIS XD`)
             message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD`);
           }
         }
+//POR CIERTO QUIERES QUE TE ENSEÑE COMO SEPARAR CADA COMANDO EN UN ARCHIVO
+//?!?!?!?
 
+//MAÑANA TIO???
+//SI
+///OK
+///NO VOY A BORRAR ESTOS COMENTARIOS
+///QUEDAN KINO
+/**
+ * QUIAW23URW24DFUERUFUEGRGVSEW
+ * @emiliano !!!!!!!!!!!!!!!!!!!!!!
+ */
         else if (command === "MATAR"){
           if(message.mentions.members.size > 0){
+            
+            const [primerArgumento] = args.split(' ')
+            const mentionRegExp = /(<@![0-9]+>)/
+            const esDesgraciado = (str) => mentionRegExp.test(str)
+
+            if (!esDesgraciado(primerArgumento)) return message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD DIME A QUIEN ASESINAR`)
+            
             const desgraciadoYCausaDeMuerte = args.split(/(\s+)/);
+            console.log(desgraciadoYCausaDeMuerte)
             const desgraciado = desgraciadoYCausaDeMuerte[0]
             desgraciadoYCausaDeMuerte.shift()
             desgraciadoYCausaDeMuerte.shift()
@@ -258,7 +283,6 @@ GRAN PAIS XD`)
             if (causaDeMuerte === ""){
               message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD`);
             }
-            else{
             const unomismo = `<@!${message.author.id}>`
             const embedMatando = new MessageEmbed()
             .setDescription('VALE TIO COMO TU DIGAS')
@@ -281,10 +305,30 @@ GRAN PAIS XD`)
             message.channel.send({ embeds: [embedMatando] });
             await sleep(40000);
             message.channel.send({ embeds: [embedMuerto] });
-          }
         }}
         else{
           message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD`);
+        }
+      }
+      else if (command === "devorar"){
+        if(message.mentions.members.size > 0){
+          const [primerArgumento] = args.split(' ')
+          const mentionRegExp = /(<@![0-9]+>)/
+          const esDesgraciado = (str) => mentionRegExp.test(str)
+          if (!esDesgraciado(primerArgumento)) return message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD DIME A QUIEN DEVORAR`)
+
+          const desgraciado = message.mentions.members.first();
+          const canvas = Canvas.createCanvas(548, 473);
+          const context = canvas.getContext('2d');
+          const background = await Canvas.loadImage('https://cdn.discordapp.com/attachments/941222420625358879/941239661853024256/FB_IMG_1625793045511.png');
+          context.drawImage(background, 0, 0, canvas.width, canvas.height);
+          const avatar = await Canvas.loadImage(desgraciado.displayAvatarURL({ format: 'jpg' }));
+          context.drawImage(avatar, 383, 89, 100, 100);
+          const attachment = new MessageAttachment(canvas.toBuffer(), 'profile-image.png');
+          message.channel.send({ files: [attachment] });
+        }
+        else{
+          message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD`)
         }
       }
         else if (command === "invitarmierda"){
@@ -302,6 +346,7 @@ literalmente (miembro): LITERALMENTE.
 tweet (tweet): SE EXPLICA SOLO.
 insultar (@usuario): LO HUMILLO.
 MATAR (CAUSA DE MUERTE): LO ANOTO EN MI LIBRETA DE MUERTE POR GILIPOLLAS.
+devorar (@usuario): LO DEVORAN LOS CUERVOS.
 invitarmierda: INVITACION MIERDA`)
         }
         else {
@@ -312,3 +357,5 @@ invitarmierda: INVITACION MIERDA`)
 
 
 client.login(process.env.TOKEN);
+
+
