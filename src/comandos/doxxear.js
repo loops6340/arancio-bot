@@ -23,5 +23,4 @@ class Doxxear {
             
     }
 }
-
 module.exports = Doxxear

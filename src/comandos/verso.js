@@ -14,25 +14,9 @@ class Verso {
 
     name = "verso"
     async run (message){
-        const requestLibros = await axios.get(`https://api.scripture.api.bible/v1/bibles/${reinaValeraBiblia}/books`, config, {
+        const request = await axios.get(`https://labs.bible.org/api/?passage=random`, {
             });
-        const libros = requestLibros.data.data
-        const libroRandomId = libros[Math.floor(Math.random()*libros.length)].id;
-        const requestCapitulos = await axios.get(`https://api.scripture.api.bible/v1/bibles/${reinaValeraBiblia}/books/${libroRandomId}/chapters`, config, {
-            })
-        const capitulos = requestCapitulos.data.data
-        const capituloRandomId = capitulos[Math.floor(Math.random()*capitulos.length)].id;
-        const requestVersos = await axios.get(`https://api.scripture.api.bible/v1/bibles/${reinaValeraBiblia}/chapters/${capituloRandomId}/verses`, config, {
-            })
-        const versos = requestVersos.data.data
-        const versoRandomId = versos[Math.floor(Math.random()*capitulos.length)].id;
-        const requestVerso = await axios.get(`https://api.scripture.api.bible/v1/bibles/${reinaValeraBiblia}/verses/${versoRandomId}?${content}`, config, {
-            })
-        const versoRandomInfo = requestVerso.data.data
-        const referencia = versoRandomInfo.reference
-        const verso = versoRandomInfo.content[0].items[1].items[0].text
-        const predica = `${referencia} ${verso}`
-        message.channel.send(predica)
+        message.channel.send(request.data)
 
     }
 }

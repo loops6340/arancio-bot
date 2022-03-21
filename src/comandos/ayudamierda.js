@@ -19,6 +19,8 @@ class AyudaMierda {
         insultar (@usuario): LO HUMILLO.
         MATAR (@usuario) (CAUSA DE MUERTE): LO ANOTO EN MI LIBRETA DE MUERTE POR GILIPOLLAS.
         devorar (@usuario): LO DEVORAN LOS CUERVOS.
+        verso: verso random de la biblia
+        linea: linea chistosa del rol play
         invitarmierda: INVITACION MIERDA`)
     }
 }
