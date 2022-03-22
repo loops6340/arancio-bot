@@ -21,6 +21,7 @@ class AyudaMierda {
         devorar (@usuario): LO DEVORAN LOS CUERVOS.
         verso: verso random de la biblia
         linea: linea chistosa del rol play
+        ddroll: tira los dados del d&d muy bueno
         invitarmierda: INVITACION MIERDA`)
     }
 }

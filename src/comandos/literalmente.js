@@ -20,7 +20,8 @@ class Literalmente {
             const request = await axios.get(literalmenteAso[Math.floor(Math.random()*literalmenteAso.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -30,7 +31,8 @@ class Literalmente {
             const request = await axios.get(literalmenteZerhin[Math.floor(Math.random()*literalmenteZerhin.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -40,7 +42,8 @@ class Literalmente {
             const request = await axios.get(literalmenteHola[Math.floor(Math.random()*literalmenteHola.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -50,7 +53,8 @@ class Literalmente {
             const request = await axios.get(literalmenteVenom[Math.floor(Math.random()*literalmenteVenom.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -60,7 +64,8 @@ class Literalmente {
             const request = await axios.get(literalmenteMeiggs[Math.floor(Math.random()*literalmenteMeiggs.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -70,7 +75,8 @@ class Literalmente {
             const request = await axios.get(literalmenteGor[Math.floor(Math.random()*literalmenteGor.length)]);
             const imagenRandom = await request.data.file_url
             if(imagenRandom === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               message.channel.send(imagenRandom)
@@ -80,7 +86,8 @@ class Literalmente {
               const request = await axios.get(literalmenteLoops[Math.floor(Math.random()*literalmenteLoops.length)]);
               const imagenRandom = await request.data.file_url
               if(imagenRandom === undefined){
-                literalCagada()
+                message.channel.send("INTENTALO DE NUEVO XD")
+                return
               }
               else{
             message.channel.send(imagenRandom)
@@ -94,7 +101,8 @@ class Literalmente {
               message.channel.send(gifardo)
             }
             else if(request.data === undefined){
-              literalCagada()
+              message.channel.send("INTENTALO DE NUEVO XD")
+              return
             }
             else{
               const imagenRandom = await request.data.file_url
@@ -109,7 +117,8 @@ class Literalmente {
             message.channel.send(gifardo)
             }
           else if(request.data === undefined){
-            literalCagada()
+            message.channel.send("INTENTALO DE NUEVO XD")
+            return
           }
           else{
             const imagenRandom = await request.data.file_url    
