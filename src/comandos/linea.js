@@ -21,7 +21,6 @@ class Linea {
                 fraseYLinea = line.split(": ")
                 frase = fraseYLinea[1]
                 lineas.push(frase)
-                console.log(lineas)
             }
         })
         const canvas = Canvas.createCanvas(850, 638);

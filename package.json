@@ -22,7 +22,8 @@
     "fs": "^0.0.1-security",
     "libsodium-wrappers": "^0.7.9",
     "request": "^2.88.2",
-    "twitter": "^1.7.1"
+    "twitter": "^1.7.1",
+    "unorm": "^1.6.0"
   },
   "repository": {
     "type": "git",
