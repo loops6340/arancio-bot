@@ -8,7 +8,7 @@ class Linea {
 
     async run(message) {
         let lineas = [];
-        fs.readFile("./src/logs/asd.txt", "utf-8", function(err, data){
+        fs.readFile("./src/logs/TODO.txt", "utf-8", function(err, data){
             if(err) {
                 throw err;
             }
