@@ -3400,3 +3400,715 @@ YCUL
 [Sun Mar 27 07:15:01 2022 GMT] NPC: BUENO
 [Sun Mar 27 07:15:02 2022 GMT] NPC: ES HORA
 [Sun Mar 27 07:15:08 2022 GMT] NPC: DE APAGAR LA LLAMA DEL UNIVERSO
+Joined server Capital Daedrica Centrada Meridiano [CDCM] on address 201.235.235.235:27016 on Mon Mar 28 02:19:47 2022 GMT
+[Mon Mar 28 02:20:09 2022 GMT] Umi: OK TIOS
+[Mon Mar 28 02:20:14 2022 GMT] Umi: AGARRO EL CHAR DE HOLA
+[Mon Mar 28 02:20:24 2022 GMT] Sherry: OK
+[Mon Mar 28 02:20:25 2022 GMT] Sherry: PERO
+[Mon Mar 28 02:20:28 2022 GMT] Sherry: ULTIMO DIA DE COMBATE
+[Mon Mar 28 02:20:34 2022 GMT] Umi: ===ULTIMO DIA DE COMBATE===
+[Mon Mar 28 02:20:45 2022 GMT] Rina Tennoji: ¿ULTIMO DIA DE COMBATE?
+[Mon Mar 28 02:20:46 2022 GMT] Umi: VAYAN A ROLEPLAY 1 YA MISMO AHORA
+[Mon Mar 28 02:20:51 2022 GMT] Sherry: ULTIMO DIA DE COMBATE
+[Mon Mar 28 02:21:04 2022 GMT] Sherry: ULTIMO DÍA DE COMBATE
+[Mon Mar 28 02:21:33 2022 GMT] NPC: Ok este es el plan
+[Mon Mar 28 02:21:38 2022 GMT] NPC: lac te agregaste tu experiencia vos?
+[Mon Mar 28 02:22:02 2022 GMT] Josh: CREO QUE SI
+[Mon Mar 28 02:22:06 2022 GMT] Sherry: YO NO ME AGREGUÉ NADA
+[Mon Mar 28 02:22:09 2022 GMT] Josh: NO ME FUNCIONAN LOS BLIPS XD
+[Mon Mar 28 02:22:35 2022 GMT] Rina Tennoji: ¿como poniamos la XP?
+[Mon Mar 28 02:22:39 2022 GMT] NPC: OK SI LO HICISTE
+[Mon Mar 28 02:22:42 2022 GMT] NPC: ESTA ES TU TAREA
+[Mon Mar 28 02:22:44 2022 GMT] NPC: VENGAN A VC
+[Mon Mar 28 02:22:53 2022 GMT] NPC: LAC EXPLICALE A WOBBU LO QUE PASO LA SESION ANTERIOR
+[Mon Mar 28 02:22:56 2022 GMT] Sherry: NO PUEDO
+[Mon Mar 28 02:23:09 2022 GMT] Josh: YA NI ME ACUERDO
+[Mon Mar 28 02:23:12 2022 GMT] Josh: FUIMOS A UN SITIO
+[Mon Mar 28 02:23:15 2022 GMT] Josh: BANO DE HOMBRES
+[Mon Mar 28 02:23:17 2022 GMT] Chieru: CONCHA VS MEIGGS
+[Mon Mar 28 02:23:19 2022 GMT] NPC: FSDHDS
+[Mon Mar 28 02:23:21 2022 GMT] Josh: Y LUEGO HABIA UNA RECEPCIONISTA
+[Mon Mar 28 02:23:26 2022 GMT] Josh: QUE SE QUEDABA DORMIDA
+[Mon Mar 28 02:23:35 2022 GMT] Fujinon: ¿Se la cogieron?
+[Mon Mar 28 02:23:38 2022 GMT] Josh: Y LUEGO UN PUZZLE QUE DURO 1000 HORAS
+[Mon Mar 28 02:23:42 2022 GMT] Josh: CREO QUE LA SECUESTRARON
+[Mon Mar 28 02:23:47 2022 GMT] Josh: NO LO SE, NO PRESTE ATENCION
+[Mon Mar 28 02:23:49 2022 GMT] Sherry: LA SECUESTRAMOS
+[Mon Mar 28 02:23:50 2022 GMT] Fujinon: Como debe ser
+[Mon Mar 28 02:23:53 2022 GMT] Rina Tennoji: Si, la metimos en un cofre
+[Mon Mar 28 02:23:57 2022 GMT] Fujinon: .
+[Mon Mar 28 02:24:04 2022 GMT] Sherry: ERA UNA MISIPPON DE SIGILO
+[Mon Mar 28 02:24:06 2022 GMT] Sherry: PERO SE DESPERTÓ
+[Mon Mar 28 02:24:08 2022 GMT] Sherry: ELLA DIJO
+[Mon Mar 28 02:24:11 2022 GMT] Sherry: ES UNA JABONERÍA
+[Mon Mar 28 02:24:16 2022 GMT] Sherry: Y YO LE APLIQUÉ LA ROMPE CUELLOS
+[Mon Mar 28 02:24:19 2022 GMT] Sherry: Y LA DORMÍ
+[Mon Mar 28 02:24:22 2022 GMT] Josh: Y LUEGO SE METIERON EN MEDIO DE UNA REUNION DE MODERADORES DE DISCORD
+[Mon Mar 28 02:24:27 2022 GMT] Sherry: Y LOS ENFERMOS LA SECUESTRARON
+[Mon Mar 28 02:24:39 2022 GMT] Rina Tennoji: Y A MI SE ME OCURRIO ESCONDERLA EN UN COFRE PARA NO TENER TESTIGOS
+[Mon Mar 28 02:24:50 2022 GMT] Rina Tennoji: Y NOS LA LLEVAMOS POR SI ACASO
+[Mon Mar 28 02:25:14 2022 GMT] NPC: MEIGGS
+[Mon Mar 28 02:25:15 2022 GMT] Sherry: SI
+[Mon Mar 28 02:25:16 2022 GMT] NPC: CUANTO TE FALTA
+[Mon Mar 28 02:25:26 2022 GMT] Sherry: 30 MINUTOS EXACTOS
+[Mon Mar 28 02:25:29 2022 GMT] Sherry: PODEMOS ROLEAR
+[Mon Mar 28 02:25:33 2022 GMT] Sherry: PERO NO ESTARÉ EN EL VC
+[Mon Mar 28 02:25:38 2022 GMT] Sherry: HASTA DENTRO DE MEDIA HORA
+[Mon Mar 28 02:25:42 2022 GMT] NPC: PELOTUDO VOY A COMPARTIR PANTALLA
+[Mon Mar 28 02:25:46 2022 GMT] NPC: PARA EXPLCIAR COMO SUBIR NIVEL
+[Mon Mar 28 02:26:00 2022 GMT] Sherry: SUBEME NIVEL NOMÁS Y LUEGO ME LO ESCRIBES EN UN BLOC DE NOTAS
+[Mon Mar 28 02:26:04 2022 GMT] NPC: OK
+[Mon Mar 28 02:26:17 2022 GMT] NPC: WOBBU VOS TAMBIEN VENI
+[Mon Mar 28 02:26:19 2022 GMT] Sherry: ESTO ES IMPORANTE GOR, ES CULTURA PERUANA !!!!!!
+[Mon Mar 28 02:26:26 2022 GMT] NPC: SILENCIO CDCM
+[Mon Mar 28 02:26:55 2022 GMT] Fujinon: Esperenme xd
+[Mon Mar 28 02:29:35 2022 GMT] NPC: cdcm
+[Mon Mar 28 02:29:36 2022 GMT] NPC: CDCM
+[Mon Mar 28 02:29:42 2022 GMT] Sherry: QUE
+[Mon Mar 28 02:29:45 2022 GMT] NPC: QUE PREFIERES
+[Mon Mar 28 02:29:49 2022 GMT] NPC: TIRAR DADO PARA GANAR MAS VIDA
+[Mon Mar 28 02:29:51 2022 GMT] Sherry: SEXO
+[Mon Mar 28 02:29:53 2022 GMT] NPC: O QUIZAS PERDER
+[Mon Mar 28 02:29:56 2022 GMT] NPC: O GANAR EL PROMEDIO DE VIDA
+[Mon Mar 28 02:29:59 2022 GMT] NPC: AL SUBIR DE NIVEL
+[Mon Mar 28 02:30:03 2022 GMT] Sherry: DADO
+[Mon Mar 28 02:30:06 2022 GMT] Sherry: PERO LO TIRO YO
+[Mon Mar 28 02:30:09 2022 GMT] Sherry: AHI ENTOR A ROLL 20
+[Mon Mar 28 02:30:12 2022 GMT] Sherry: ME DICES QUE TIRAR
+[Mon Mar 28 02:45:45 2022 GMT] Josh: SE CANCELA SESION XD
+[Mon Mar 28 02:48:12 2022 GMT] Sherry: CHISTOSO
+[Mon Mar 28 02:48:23 2022 GMT] Sherry: ME QUEDAN 7 MINUTOS DEL ULTIMO PROGRAMA DE COMBATE
+[Mon Mar 28 02:54:26 2022 GMT] Sherry: OK YA
+[Mon Mar 28 02:54:28 2022 GMT] Sherry: ROLEEMOS
+[Mon Mar 28 02:55:04 2022 GMT] Josh: *rolea*
+[Mon Mar 28 02:56:33 2022 GMT] Umi: !
+[Mon Mar 28 02:57:42 2022 GMT] NPC: OK
+[Mon Mar 28 02:57:51 2022 GMT] NPC: WOBBU SIGUE MUERTO
+[Mon Mar 28 02:57:54 2022 GMT] NPC: Y HOLA YA ESTÁ EN EL VC
+[Mon Mar 28 02:58:04 2022 GMT] Josh: ES HORA DE MEAR
+[Mon Mar 28 02:58:08 2022 GMT] Josh: BRB
+[Mon Mar 28 02:58:15 2022 GMT] NPC: CLARAMENTE ESTAN TODOS LOS DEL VC EN PRESENCIA
+[Mon Mar 28 02:59:26 2022 GMT] Rina Tennoji: Si
+[Mon Mar 28 02:59:38 2022 GMT] NPC: OK ES LA HORA
+[Mon Mar 28 02:59:41 2022 GMT] NPC: CDCM ESTAS CON VIDA?
+[Mon Mar 28 03:04:10 2022 GMT] Sherry: SI
+[Mon Mar 28 03:04:12 2022 GMT] Sherry: POR
+[Mon Mar 28 03:04:15 2022 GMT] Sherry: QUE QUIERES
+[Mon Mar 28 03:04:17 2022 GMT] Sherry: TE VOY A MATAR
+[Mon Mar 28 03:04:20 2022 GMT] NPC: OK
+[Mon Mar 28 03:04:23 2022 GMT] NPC: ES TU MOMENTO DE BRILLAR
+[Mon Mar 28 03:04:28 2022 GMT] Sherry: PERO SI YO HE ESTADO ACÁ
+[Mon Mar 28 03:04:31 2022 GMT] Sherry: TODO EL RATO
+[Mon Mar 28 03:04:34 2022 GMT] NPC: PELOTUDO
+[Mon Mar 28 03:04:37 2022 GMT] NPC: TE ESTABAMOS LLAMANDO
+[Mon Mar 28 03:04:39 2022 GMT] Sherry: MENTIRA
+[Mon Mar 28 03:04:40 2022 GMT] NPC: SI
+[Mon Mar 28 03:04:43 2022 GMT] Rina Tennoji: XD
+[Mon Mar 28 03:04:44 2022 GMT] NPC: TE ESTABMAOS LAF NAESYW
+[Mon Mar 28 03:04:52 2022 GMT] NPC: OK IRRELEVANTE
+[Mon Mar 28 03:04:57 2022 GMT] NPC: --------------------------------------------------------
+[Mon Mar 28 03:05:02 2022 GMT] NPC: 
+[Mon Mar 28 03:05:19 2022 GMT] FKNPC_HD ha reproducido la canción: Kek.mp3
+[Mon Mar 28 03:05:21 2022 GMT] Umi: https://prnt.sc/GDT7avwp6UPn
+[Mon Mar 28 03:05:51 2022 GMT] NPC: OK CDCM, ES TU TURNO DE LIMPIAR LA SALA DE REUNION DE UN CULTO, OBVIAMENTE
+[Mon Mar 28 03:05:55 2022 GMT] Sherry: https://youtu.be/f_T5s2KEhE8
+[Mon Mar 28 03:06:08 2022 GMT] Sherry: OKAY ES HORA
+[Mon Mar 28 03:07:11 2022 GMT] Alex: Alex desde el fondo te lanza una mirada sospechosa
+[Mon Mar 28 03:07:41 2022 GMT] Crowley: ¿Vas a permanecer en la entrada? Tenemos cosas que hacer.
+[Mon Mar 28 03:07:45 2022 GMT] Sherry: *esto tranquilamente limpiando el lugar con la escoba, tapándome la cara con la gorra y dándole la espalda a los tipos*
+[Mon Mar 28 03:08:24 2022 GMT] Sherry: *poco a poco me voy acercando al pelón pero de espaldas aún equis de*
+[Mon Mar 28 03:08:48 2022 GMT] Monstruo: Puedes ver que está resguardado por 3 de estos.
+[Mon Mar 28 03:08:54 2022 GMT] Monstruo: ***
+[Mon Mar 28 03:09:18 2022 GMT] Sherry: [Este culto es horripilante, debo limpiar el rededor de ellos y salir prono]
+[Mon Mar 28 03:09:26 2022 GMT] Sherry: proNto
+[Mon Mar 28 03:09:55 2022 GMT] Sherry: Disculpen pero debo limpiar por acá, levantan los pies? 
+[Mon Mar 28 03:10:13 2022 GMT] Alex: TIRA PERSUASION XD
+[Mon Mar 28 03:10:23 2022 GMT] Alex: //NO SE
+[Mon Mar 28 03:10:27 2022 GMT] Alex: //MAGIA COSMICA
+[Mon Mar 28 03:10:30 2022 GMT] Sherry: //FINJO SER UN CONSERGE DE LIMPIEZA PARA NO MORIR
+[Mon Mar 28 03:10:36 2022 GMT] Sherry: //LOL
+[Mon Mar 28 03:10:36 2022 GMT] Sherry: 
+[Mon Mar 28 03:10:43 2022 GMT] Sherry: //TENGO UN PLAN
+[Mon Mar 28 03:10:56 2022 GMT] Alex: BUENO MEIGGS TIRA
+[Mon Mar 28 03:11:21 2022 GMT] Sherry: TIENE NEGATIVO//
+[Mon Mar 28 03:11:32 2022 GMT] Crowley: Suficiente. Tenemos cosas que hacer.
+[Mon Mar 28 03:11:40 2022 GMT] Crowley: Sal de aquí INMEDIATAMENTE.
+[Mon Mar 28 03:12:13 2022 GMT] Sherry: Pero señor tiene muy sucia esa mesa*rodea al calvito para tratar de estar cerca de la caja*
+[Mon Mar 28 03:12:55 2022 GMT] Monstruo: Los cultistas empiezan a rodearte.
+[Mon Mar 28 03:13:07 2022 GMT] Sherry: 
+[Mon Mar 28 03:13:27 2022 GMT] Crowley: Inmediatamente.
+[Mon Mar 28 03:13:42 2022 GMT] Sherry: *pero me escabullo como un ninja y agarro al calvito del cuello y lo amenazo con clavarle mi daga en el craneo*
+[Mon Mar 28 03:14:12 2022 GMT] Crowley: //OSEA TE DAS CUENTA
+[Mon Mar 28 03:14:14 2022 GMT] Crowley: //QUE SI HACES ESO
+[Mon Mar 28 03:14:23 2022 GMT] Crowley: //TIENES QUE PASAR POR TODOS LOS CULTISTAS A TU ALREDEDOR
+[Mon Mar 28 03:14:31 2022 GMT] Crowley: //Y REACCIONAR ANTES QUE ELLOS
+[Mon Mar 28 03:14:46 2022 GMT] Sherry: *BUENO*
+[Mon Mar 28 03:14:47 2022 GMT] Josh: HOLA LOQUENDEROS
+[Mon Mar 28 03:15:00 2022 GMT] Josh: *PERDON CON ASTERISCO
+[Mon Mar 28 03:15:03 2022 GMT] Crowley: //fsdyhdsxr>FDESRU
+[Mon Mar 28 03:15:07 2022 GMT] Sherry: *UTILIZO A UNO PARA IMPULSARME Y SALTAR Y CAER SOBRE EL CALVITO*
+[Mon Mar 28 03:15:37 2022 GMT] Crowley: //OK MEIGGS, TIRA UN DADO DE DESTREZA
+[Mon Mar 28 03:15:39 2022 GMT] Crowley: //YA
+[Mon Mar 28 03:15:41 2022 GMT] Sherry: // ES EL CULTO AL HIJO DE DOS INCESTUOSOS
+[Mon Mar 28 03:15:57 2022 GMT] Sherry: *16*
+[Mon Mar 28 03:16:29 2022 GMT] Alex_HD ha reproducido la canción: stop.mp3
+[Mon Mar 28 03:17:02 2022 GMT] Monstruo: Uno de los cultistas te detiene en medio del aire.
+[Mon Mar 28 03:17:06 2022 GMT] Aleister Crowley_(EoD) ha reproducido la canción: Ritual.mp3
+[Mon Mar 28 03:17:10 2022 GMT] Sherry: DNOASJNDMKAÑSLDAS
+[Mon Mar 28 03:17:11 2022 GMT] Sherry: MLAÑSLDMNKÑDNA
+[Mon Mar 28 03:17:13 2022 GMT] Sherry: AÑSLMDAÑSLMDAÑSLMDAÑLSDM
+[Mon Mar 28 03:17:15 2022 GMT] Crowley: ¿OSAS DESAFIAR A LAS FUERZAS DEL CAOS?
+[Mon Mar 28 03:17:22 2022 GMT] Crowley: REVELA TU IDENTIDAD, INMEDIATAMENTE.
+[Mon Mar 28 03:17:33 2022 GMT] Sherry: Tu dios es producto de un acto pecaminoso 
+[Mon Mar 28 03:17:42 2022 GMT] Sherry: *le tiro la daga en el medio de la frente*
+[Mon Mar 28 03:18:10 2022 GMT] Sherry: Además ese pelotudo de ahí me robó a mi gato
+[Mon Mar 28 03:18:14 2022 GMT] Crowley: //OK TIRA UN ATAQUE
+[Mon Mar 28 03:18:18 2022 GMT] Crowley: CON TU PORQUERIA
+[Mon Mar 28 03:18:20 2022 GMT] Crowley: //
+[Mon Mar 28 03:18:26 2022 GMT] Crowley: //DAME UN SEGUNDO, NO SABES HACER ESO
+[Mon Mar 28 03:18:30 2022 GMT] Crowley: //PERO BASICAMENTE ESTAS INICIANDO EL COMBATE
+[Mon Mar 28 03:18:34 2022 GMT] Sherry: *O SEA QUÉ TIRO, SOLO DIJE QUE TIRABA MI DAGA*
+[Mon Mar 28 03:18:44 2022 GMT] Crowley: //VE A TU FICHA
+[Mon Mar 28 03:18:49 2022 GMT] Sherry: *YA
+[Mon Mar 28 03:19:01 2022 GMT] Crowley: //DONDE ESTAN LAS ARMAS CLICKEA DAGGER
+[Mon Mar 28 03:19:14 2022 GMT] Sherry: OK*
+[Mon Mar 28 03:19:55 2022 GMT] Crowley: //MIRA DISCORD XD
+[Mon Mar 28 03:20:28 2022 GMT] Crowley: //NO BOLUDO
+[Mon Mar 28 03:20:34 2022 GMT] Crowley: //AHI TE MARQUE LO QUE TENES QUE APRETAR
+[Mon Mar 28 03:20:37 2022 GMT] Sherry: ESTOY BUSCANDO//
+[Mon Mar 28 03:20:48 2022 GMT] Sherry: OK YA
+[Mon Mar 28 03:20:53 2022 GMT] Sherry: GANÉ//
+[Mon Mar 28 03:21:10 2022 GMT] Crowley: OK, AHORA
+[Mon Mar 28 03:21:12 2022 GMT] Crowley: //
+[Mon Mar 28 03:21:19 2022 GMT] Sherry: //TENGO DUPLICADAS LAS COSAS
+[Mon Mar 28 03:21:25 2022 GMT] Crowley: //VES EN EL CHAT DONDE DICE 18 DAGGER?
+[Mon Mar 28 03:21:28 2022 GMT] Crowley: //CLICKEA DONDE DICE DAGGER
+[Mon Mar 28 03:21:30 2022 GMT] Sherry: SI//
+[Mon Mar 28 03:21:35 2022 GMT] Crowley: //Y TIRAS POR EL DAÑO
+[Mon Mar 28 03:21:39 2022 GMT] Sherry: //5
+[Mon Mar 28 03:21:41 2022 GMT] Crowley: //BIEN HECHO CDCM
+[Mon Mar 28 03:22:07 2022 GMT] Crowley: Tsk.
+[Mon Mar 28 03:22:32 2022 GMT] Crowley: El sujeto recibe 5 de daño. El cuchillo está clavado en su frente.
+[Mon Mar 28 03:22:48 2022 GMT] Sherry: //OBVIAMENTE ES EN EL PUNTO EN MEDIO DE LA ESTRELLA
+[Mon Mar 28 03:22:53 2022 GMT] Crowley: Este juguete no será lo suficiente para detenerme.
+[Mon Mar 28 03:23:10 2022 GMT] Crowley: Con dos dedos toma el cuchillo, lo remueve de su frente y lo tira al suelo.
+[Mon Mar 28 03:23:18 2022 GMT] Sherry: No pero si me sirve lo suficiente para que sigas hablando y entren mis MOSQUETEROS
+[Mon Mar 28 03:23:35 2022 GMT] Sherry: //ENTREN MIERDA
+[Mon Mar 28 03:23:55 2022 GMT] Sherry: //CON TODO Y COFRE CON SECUESTRADA PORFA
+[Mon Mar 28 03:24:00 2022 GMT] Alex: Espera, ¿que?
+[Mon Mar 28 03:24:11 2022 GMT] Umi: HOLA MALDITOS HUMANOS XD
+[Mon Mar 28 03:24:13 2022 GMT] Chieru: MORTALES.
+[Mon Mar 28 03:24:19 2022 GMT] Rina Tennoji: Ya llegamos los Mosquepapus
+[Mon Mar 28 03:24:21 2022 GMT] Sherry: //SÍ, TIREN LA CAJA CON EL PESO MUERTO A ALGUIEN Y PELEEMOS
+[Mon Mar 28 03:24:27 2022 GMT] Crowley: ¿Quien los ha enviado?
+[Mon Mar 28 03:24:30 2022 GMT] Sherry: NDAA{MDASÑLDMALSKDMA{S IVAN NO TIENE LA POS//
+[Mon Mar 28 03:24:37 2022 GMT] Crowley: //IVAN /POS PRO
+[Mon Mar 28 03:24:48 2022 GMT] Crowley: De todas formas, el ritual debe comenzar.
+[Mon Mar 28 03:25:01 2022 GMT] Crowley: Nuestro invitado especial procederá a recitar el conjuro.
+[Mon Mar 28 03:25:10 2022 GMT] Alex: ...Entendido.
+[Mon Mar 28 03:25:11 2022 GMT] Chieru: Tu mamá
+[Mon Mar 28 03:25:16 2022 GMT] Sherry: Especial es el dios al que le rezas porque su mamá y su papá son hermanos
+[Mon Mar 28 03:25:22 2022 GMT] Umi: El mismo gilipollas que no nos dio dinero
+[Mon Mar 28 03:25:27 2022 GMT] Umi: >:V
+[Mon Mar 28 03:25:31 2022 GMT] Rina Tennoji: Jajaja, Buena Sherr
+[Mon Mar 28 03:25:37 2022 GMT] Sherry: *intento zafarme de los guardias¿*
+[Mon Mar 28 03:26:05 2022 GMT] Sherry: //ME AGARRARON EN EL AIRE
+[Mon Mar 28 03:26:15 2022 GMT] Crowley: //ESPERA MEIGGS, YA NO
+[Mon Mar 28 03:26:24 2022 GMT] Sherry: //YA NO QUE
+[Mon Mar 28 03:26:25 2022 GMT] Crowley: //SOLO CLICKEA TU PERSONAJE EN EL MAPA Y TIRA INICIATIVA
+[Mon Mar 28 03:26:30 2022 GMT] Crowley: //EL RESTO TAMBIEN HAGA LO MISMO
+[Mon Mar 28 03:27:57 2022 GMT] Crowley: //QUIEN FUE
+[Mon Mar 28 03:27:59 2022 GMT] Crowley: //EL PELOTUDO
+[Mon Mar 28 03:28:01 2022 GMT] Crowley: //QUE TIRO CON ASO
+[Mon Mar 28 03:28:41 2022 GMT] Crowley: //EN DISCORD PASE CAPTURA DE DONDE ESTA INICIATIVA
+[Mon Mar 28 03:30:09 2022 GMT] Sherry: //EL COFRE ES PARTE DEL PLAN, LO VAN A LANZAR CONTRA LOS GUARDIAS
+[Mon Mar 28 03:31:05 2022 GMT] Sherry: //SOLO LA DEJÉ INCOSCIENTE, NO LA MATÉ
+[Mon Mar 28 03:31:13 2022 GMT] Sherry: // SKILLS DE SUPERVIVENCIAS 
+[Mon Mar 28 03:31:33 2022 GMT] Sherry: //POR ESO LA LLEVAMOS CON NOSTROS, ASÍ NO NOS PUEDE DENUNCIAR
+[Mon Mar 28 03:31:47 2022 GMT] Sherry: //LE CONCEDEREMOS EL SÍNDROME DE ESTOCOLMO
+[Mon Mar 28 03:32:33 2022 GMT] Sherry: //ES QUE NO HABÍA NADA PARA LOOTEAER, NUM SOLO LE ROBÓ UN PELUCHE DE ALGO
+[Mon Mar 28 03:32:49 2022 GMT] Crowley: Así que te infiltras en nuestra reunión y tienes la osadía de insultar a Louise...
+[Mon Mar 28 03:32:58 2022 GMT] Crowley: Voy a disfrutar esto.
+[Mon Mar 28 03:33:06 2022 GMT] Chieru: Pero es la verdad.
+[Mon Mar 28 03:33:11 2022 GMT] Umi: Hey Lois
+[Mon Mar 28 03:33:18 2022 GMT] Chieru: Hey Lois
+[Mon Mar 28 03:33:30 2022 GMT] Sherry: Seguro no pasó de los 5 años y le dio una muerte de algo por malformación
+[Mon Mar 28 03:33:44 2022 GMT] Crowley: ........
+[Mon Mar 28 03:33:45 2022 GMT] Aleister Crowley_(EoD) ha reproducido la canción: Walpurgis Night.mp3
+[Mon Mar 28 03:33:48 2022 GMT] Crowley: OOOH TARUM PADRE, AQUÉL QUE SE SIENTA EN EL TRONO Y ORDENA NUESTRO HOGAR, DIME SI LO QUE DICE LUCY ES LA VERDAD.
+
+[Mon Mar 28 03:33:54 2022 GMT] Crowley: OOOH TARUM PADRE, AQUÉL QUE REVELA PERO NO SE REVELA, DIME SI LO QUE DICE LUCY ES VERDAD.
+
+
+[Mon Mar 28 03:33:59 2022 GMT] Crowley: OOOH TARUM PADRE, AQUÉL QUE PERMITE QUE NUESTRA CREENCIA EN USTED SEA CONFRONTADA, POR FAVOR CONTESTAME SI LO QUE DICE LUCY ES VERDAD.
+
+
+[Mon Mar 28 03:34:06 2022 GMT] Crowley: AQUELLA QUE EXILIADA HA SIDO DE LA OBRA DE AFFEREI PERO AUN EN LA MISMA DEBERÁ MANIFESTARSE DE VUELTA.
+
+
+[Mon Mar 28 03:34:12 2022 GMT] Umi: se cree un pillo con su pantalón pitillo
+[Mon Mar 28 03:34:14 2022 GMT] Sherry: Lucy es una incestuosa y seguro tiene cangrena en la vagina
+[Mon Mar 28 03:34:18 2022 GMT] Chieru: Pero el padre no era Nimrod??????????????????
+[Mon Mar 28 03:34:21 2022 GMT] Crowley: AQUELLA QUE SE VOLVIÓ UNO CON LA LUZ DE LA OSCURIDAD DEBERÁ REFLEJARSE OTRA VEZ EN NUESTRO MUNDO.
+[Mon Mar 28 03:34:26 2022 GMT] Chieru: PERO RESPONDE
+[Mon Mar 28 03:34:29 2022 GMT] Crowley: ¡A ELLOS, INMEDIATAMENTE!
+[Mon Mar 28 03:34:35 2022 GMT] Sherry: *pero te robo el turno y te tiro un flechazo*
+[Mon Mar 28 03:34:38 2022 GMT] Chieru: Hater.
+[Mon Mar 28 03:34:39 2022 GMT] Umi: Padre Crowley te follarías a Lucy?
+[Mon Mar 28 03:34:43 2022 GMT] Sherry: *no mentira*
+[Mon Mar 28 03:34:44 2022 GMT] Crowley: //OK LAC ES TU TURNO
+[Mon Mar 28 03:35:13 2022 GMT] Sherry: Ah pero no contabas con que  https://youtu.be/FmcC8zYYAk0
+[Mon Mar 28 03:35:16 2022 GMT] Crowley: //MEIGGS ESTÁ LITERALMENTE RODEADO
+[Mon Mar 28 03:35:30 2022 GMT] Chieru: El que me pega es trans.
+[Mon Mar 28 03:35:37 2022 GMT] Sherry: //SI, YO SOY EL OBJETIVO PRINICPAL, PERO TENGO MUCHA VIDA PORQUE GANÉ LOS TIROS CON DADO
+[Mon Mar 28 03:35:59 2022 GMT] Sherry: QQUEEEEE///
+[Mon Mar 28 03:36:13 2022 GMT] Josh: *espera porque capaz sale que no fue verdad
+[Mon Mar 28 03:36:59 2022 GMT] Sherry: CUAL/
+[Mon Mar 28 03:37:05 2022 GMT] Sherry: DEERECHA IZQUIERDA O ABAJO/
+[Mon Mar 28 03:37:15 2022 GMT] Sherry: OK/
+[Mon Mar 28 03:37:53 2022 GMT] Chieru: CLARAMENTE NUESTRA NUEVA AMIGA NOS VA A AYUDAR COMO UN MIEMBRO EXTRA VERDAD??????????????
+[Mon Mar 28 03:38:22 2022 GMT] Sherry: *ME SALVÉ POR EL PODER DEL GUIÓN Y YA QUE LOS QUE ME RODEAN SEGURO SON OTROS ENGENDROS DE INCESTUOSOS Y NO SUPIERON COMO PEGARME*
+[Mon Mar 28 03:38:56 2022 GMT] Sherry: //TIREN EL COFRE CON MINITA Y TODO, CAPAZ ES ALGUIEN IMPORTANTE PARA EL CALVO Y LO AMENAZAMOS
+[Mon Mar 28 03:40:02 2022 GMT] Sherry: //si lol le saqué 5 de vida al calvo de un navajazo en la frente
+[Mon Mar 28 03:40:47 2022 GMT] Sherry: // cuanto de vida tiene el pelado
+[Mon Mar 28 03:41:06 2022 GMT] Sherry: //epico
+[Mon Mar 28 03:43:15 2022 GMT] Sherry: cuales eran mis poderes/
+[Mon Mar 28 03:44:07 2022 GMT] Sherry: ok roleemos a la antigua
+[Mon Mar 28 03:44:09 2022 GMT] Sherry: /
+[Mon Mar 28 03:44:22 2022 GMT] Sherry: *le clavo la lanza al de la derecha en toda la cabeza*
+[Mon Mar 28 03:52:38 2022 GMT] Sherry: *le pongo el pie para que se caiga y se mate con su arma porque le cae en el cuelllo*
+[Mon Mar 28 03:52:50 2022 GMT] Sherry: *no*
+[Mon Mar 28 03:52:55 2022 GMT] Sherry: *le pego con la lanza*
+[Mon Mar 28 04:04:43 2022 GMT] Umi: 
+[Mon Mar 28 04:06:25 2022 GMT] Josh: *YA CON EL SEGUNDO ESTA EN EL MISMISIMO ABISMO
+[Mon Mar 28 04:06:33 2022 GMT] Josh: 
+[Mon Mar 28 04:06:45 2022 GMT] Josh: *ENCIMA TIENE EL MODIFICADOR EN TEORIA
+[Mon Mar 28 04:10:25 2022 GMT] Josh: *SU QUE?
+[Mon Mar 28 04:10:32 2022 GMT] Crowley: //sutest
+[Mon Mar 28 04:10:37 2022 GMT] Josh: *WANIUFN
+[Mon Mar 28 04:41:03 2022 GMT] Josh: *VALE Y LAS PRUEBAS?
+[Mon Mar 28 04:41:24 2022 GMT] Josh: *LA EVIDENCIA DE SU MUERTE DONDE?
+[Mon Mar 28 04:43:12 2022 GMT] Josh: *EVIDENCIA
+[Mon Mar 28 04:43:26 2022 GMT] Josh: *FOTO O NO PASO
+[Mon Mar 28 04:45:44 2022 GMT] Josh: *HOES HOES HOES HOES HOES
+[Mon Mar 28 04:45:56 2022 GMT] Josh: *YA SEGURO NI PASO ESO Y SE LO INVENTARON TODO XD
+[Mon Mar 28 04:52:45 2022 GMT] Josh: *VALE AHI ME QUEDO
+[Mon Mar 28 05:07:27 2022 GMT] Aleister Crowley_(EoD) ha reproducido la canción: Victory.mp3
+[Mon Mar 28 05:07:55 2022 GMT] Chieru: POR TRANS DE MIERDA.
+[Mon Mar 28 05:07:56 2022 GMT] Umi: ME DUELE LA EXISTENCIA.
+[Mon Mar 28 05:08:09 2022 GMT] Crowley: BUENA HIJOS DE PUTA LOS MUTILARON XD 
+[Mon Mar 28 05:08:19 2022 GMT] Chieru: HUMILLADO.
+[Mon Mar 28 05:08:21 2022 GMT] Sherry: *estoy literalmente en el piso muerto probablemente*
+[Mon Mar 28 05:08:25 2022 GMT] Crowley: Tsk
+[Mon Mar 28 05:08:33 2022 GMT] Sherry: *si tengo una XD*
+[Mon Mar 28 05:08:41 2022 GMT] Sherry: *obliguenme a tomarla*
+[Mon Mar 28 05:08:44 2022 GMT] Crowley: //WOBBU TE DEVUELVE A LA EXISTENCIA
+[Mon Mar 28 05:08:51 2022 GMT] Sherry: *ah ok*
+[Mon Mar 28 05:09:12 2022 GMT] Aleister Crowley_(EoD) ha reproducido la canción: stop.mp3
+[Mon Mar 28 05:09:15 2022 GMT] Chieru: Okey
+[Mon Mar 28 05:09:15 2022 GMT] Sherry: *me chupa la pija ya no hay mas combate, obviamente al salir del cuarto nos recuperamos toda la vida*
+[Mon Mar 28 05:09:26 2022 GMT] Chieru: Ahora
+[Mon Mar 28 05:09:29 2022 GMT] Sherry: *es como un punto de guardado*
+[Mon Mar 28 05:09:33 2022 GMT] Chieru: DONDE CARAJOS ESTA JULIAN???????
+[Mon Mar 28 05:09:37 2022 GMT] Rina Tennoji: GANAMOS
+[Mon Mar 28 05:09:39 2022 GMT] Crowley: El que aparenta ser el lider del culto esta en el suelo.
+[Mon Mar 28 05:09:49 2022 GMT] Chieru: *Lotea a todos los tipos*
+[Mon Mar 28 05:09:54 2022 GMT] Sherry: *le patea la pelada* DEvolveme al gato hijo de puta
+[Mon Mar 28 05:10:05 2022 GMT] Umi: Bueno, esto es lo que pasa cuando le hacen culto a un gilipollas xD
+[Mon Mar 28 05:10:26 2022 GMT] Rina Tennoji: ¿Entonces somos el equipo dinamita?
+[Mon Mar 28 05:10:31 2022 GMT] Mort (Sherry): Si
+[Mon Mar 28 05:10:34 2022 GMT] Umi: Se podría decir
+[Mon Mar 28 05:10:44 2022 GMT] Crowley: El sujeto simplemente se queda callado en el suelo.
+[Mon Mar 28 05:10:53 2022 GMT] Chieru: DONDE CARAJO ESTA JULIAN?????????
+[Mon Mar 28 05:10:56 2022 GMT] Alex: ...Terminado.
+[Mon Mar 28 05:10:59 2022 GMT] Chieru: MALDITO DESGRACIADO
+[Mon Mar 28 05:11:06 2022 GMT] Rina Tennoji: ¿Golpeenlo hasta que responda?
+[Mon Mar 28 05:11:09 2022 GMT] Umi: *PATEA AL SUJETO EN EL SUELO COMO HACE CJ EN EL GTA SAN ANDREAS*
+[Mon Mar 28 05:11:20 2022 GMT] Mort (Sherry): *recojo mi cuchillo que tiré hace rato y mi unica flecha dispara la saco del cadáver del cultista ese jaja quiero ahorrar items*
+[Mon Mar 28 05:11:27 2022 GMT] Chieru: *Procede a patear al tipo como en Jojos*
+[Mon Mar 28 05:11:50 2022 GMT] Mort (Sherry): *se acerca a alex izquierdo* Oye trans dame mi gato
+[Mon Mar 28 05:11:53 2022 GMT] Crowley: El sujeto simplemente empiza a gritar de dolor.
+[Mon Mar 28 05:11:56 2022 GMT] Chieru: *Se va por su caja*
+[Mon Mar 28 05:11:58 2022 GMT] Rina Tennoji: *Ayuda en la interrogacion golpeando al sujeto*
+[Mon Mar 28 05:12:04 2022 GMT] Crowley: ...Suficiente de esto.
+[Mon Mar 28 05:12:13 2022 GMT] Crowley: DFQEWT/7FWQ
+[Mon Mar 28 05:12:14 2022 GMT] Umi: QWDQWDFO'QWKFD
+[Mon Mar 28 05:12:15 2022 GMT] Umi: P'QW¡`PKLQWD`PQW`PKQ
+[Mon Mar 28 05:12:17 2022 GMT] Mort (Sherry): DNBAJSKDNKMÑASD
+[Mon Mar 28 05:12:18 2022 GMT] Umi: `PWQKWF`PL`L
+[Mon Mar 28 05:12:19 2022 GMT] Crowley: /////////////
+[Mon Mar 28 05:12:20 2022 GMT] Umi: PKL``PK`PKOPJEIODJERWF
+[Mon Mar 28 05:12:21 2022 GMT] Mort (Sherry): DMASMLSÑMDASÑLAMÑSLMDASÑAMSMDASÑM//////
+[Mon Mar 28 05:12:24 2022 GMT] Chieru: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Mon Mar 28 05:12:26 2022 GMT] Rina Tennoji: //YO XD
+[Mon Mar 28 05:12:28 2022 GMT] Umi: PK`PKL`PJKOFPWEKF`PKLWE`FPLWEF`WEQLPFA+`SDFÑLAS+`FLCAS`+FLAL
+[Mon Mar 28 05:12:44 2022 GMT] Chieru: *Regresa con la caja y la tipa*
+[Mon Mar 28 05:13:02 2022 GMT] Rina Tennoji: //Ningun POS me funciona
+[Mon Mar 28 05:13:10 2022 GMT] Crowley: El sujeto al que acaban de golpear brutalmente acerca su espada espiritual y coloca su cuello en el filo de esta.
+[Mon Mar 28 05:13:28 2022 GMT] Chieru: El que se suicida es trans
+[Mon Mar 28 05:13:33 2022 GMT] Rina Tennoji: //Momento DRO
+[Mon Mar 28 05:13:37 2022 GMT] Umi: ...
+[Mon Mar 28 05:13:44 2022 GMT] Umi: :v
+[Mon Mar 28 05:13:46 2022 GMT] Crowley: Acto seguido deja caer su cuello.
+[Mon Mar 28 05:13:52 2022 GMT] Chieru: Okey trans
+[Mon Mar 28 05:13:57 2022 GMT] Mort (Sherry): *lo detiene* Eh tio no hagas nada DESCABELLADO
+[Mon Mar 28 05:14:08 2022 GMT] Crowley: //DESTREZA
+[Mon Mar 28 05:14:34 2022 GMT] Crowley: //PERO SALVADA NO
+[Mon Mar 28 05:14:35 2022 GMT] Crowley: //NORMAL
+[Mon Mar 28 05:14:37 2022 GMT] Rina Tennoji: ¿Y donde esta tu dios producto del incesto ahora?
+[Mon Mar 28 05:15:08 2022 GMT] Chieru: Troll
+[Mon Mar 28 05:15:18 2022 GMT] Crowley: No lo logras, el sujeto se suicida.
+[Mon Mar 28 05:15:25 2022 GMT] Mort (Sherry): Que maricón
+[Mon Mar 28 05:15:29 2022 GMT] Chieru: Wow un trans
+[Mon Mar 28 05:15:31 2022 GMT] Umi: *LE ROBA LA ESPADA XD*
+[Mon Mar 28 05:15:40 2022 GMT] Crowley: SE DESVANECE CUANDO MUERE XD
+[Mon Mar 28 05:15:45 2022 GMT] Umi: PUTO GILIPOLLAS.
+[Mon Mar 28 05:15:52 2022 GMT] Rina Tennoji: Hijo de puta, no lo pudimos saquear
+[Mon Mar 28 05:15:54 2022 GMT] Alex: Oigan, ¿que hicieron?
+[Mon Mar 28 05:15:58 2022 GMT] Mort (Sherry): *se guarda la cabeza del pelado en una mochila*
+[Mon Mar 28 05:16:02 2022 GMT] Alex: Esto es una masacre.
+[Mon Mar 28 05:16:06 2022 GMT] Chieru: *Busca en el cadaver alguna manera de conseguir ese hechizo chistoso*
+[Mon Mar 28 05:16:10 2022 GMT] Umi: Bueno... se lo gano por seguir a un Dios inútil
+[Mon Mar 28 05:16:16 2022 GMT] Chieru: Por trans
+[Mon Mar 28 05:16:20 2022 GMT] Umi: ¿Ahora nos das dinero para jugar a Jack el negro?
+[Mon Mar 28 05:16:26 2022 GMT] Mort (Sherry): Usaré su cabeza como cebo en un futrup
+[Mon Mar 28 05:16:38 2022 GMT] Rina Tennoji: ¿masacre? creo que estas exagerando
+[Mon Mar 28 05:16:41 2022 GMT] Mort (Sherry): //ya está cortada, se decapitó solito XD
+[Mon Mar 28 05:16:46 2022 GMT] Chieru: Y JULIAN???
+[Mon Mar 28 05:16:51 2022 GMT] Rina Tennoji: solo fueron como 13 muertos
+[Mon Mar 28 05:16:58 2022 GMT] Mort (Sherry): *YA DIJE QUE LA GUARDABA EN MIS ITEMS PERO GOR NO ME DIJO NADA*
+[Mon Mar 28 05:17:02 2022 GMT] Crowley: NO TIENE EL HECHIZO EN SU INVENTARIO, NUM
+[Mon Mar 28 05:17:07 2022 GMT] Crowley: SI, GUARDALA
+[Mon Mar 28 05:17:08 2022 GMT] Chieru: :'v
+[Mon Mar 28 05:17:10 2022 GMT] Mort (Sherry): *OK*
+[Mon Mar 28 05:17:16 2022 GMT] Josh: *se imaginan que el gato era el calvo ahahahha seria chistoso no se
+[Mon Mar 28 05:17:27 2022 GMT] Rina Tennoji: //Sacale el hechizo del cerebro usando un hechizo
+[Mon Mar 28 05:17:55 2022 GMT] Chieru: Y JULIAN???
+[Mon Mar 28 05:18:00 2022 GMT] Mort (Sherry): Bueno manito ya fuiste fsh fhs fhs fhs *finge navajear a alex a distancia* sfhshfs fhsfsh dónde está Julián choche
+[Mon Mar 28 05:18:09 2022 GMT] Alex: Mierda, ahora mi plan está arruinado y ahora soy pobre de vuelta.
+[Mon Mar 28 05:18:27 2022 GMT] Mort (Sherry): [Que suerte que le robé plata antes]
+[Mon Mar 28 05:18:30 2022 GMT] Umi: ¿no tenías un buen trabajo?
+[Mon Mar 28 05:18:32 2022 GMT] Chieru: DESGRACIADO, NO ME IMPORTA TU VIDA, DONDE ESTA JULIAN????
+[Mon Mar 28 05:18:48 2022 GMT] Cat: Algo se empieza a mover dentro de la caja.
+[Mon Mar 28 05:18:53 2022 GMT] Rina Tennoji: DANOS AL GATO AHORA O QUEDARAS IGUAL QUE LOS OTROS 13
+[Mon Mar 28 05:19:01 2022 GMT] Cat: AL FRENTE//
+[Mon Mar 28 05:19:06 2022 GMT] Mort (Sherry): *abrir caja sobre le ritual satanico*
+[Mon Mar 28 05:19:09 2022 GMT] Chieru: *Retrocede un poco con el cofre que tiene*
+[Mon Mar 28 05:19:23 2022 GMT] Alex: Ya no sirve de nada. Me retiro.
+[Mon Mar 28 05:19:28 2022 GMT] Umi: *ABRE LA CAJA DE PANDORA*
+[Mon Mar 28 05:19:33 2022 GMT] Mort (Sherry): *le pone el pie para que se caiga*
+[Mon Mar 28 05:19:36 2022 GMT] Cat: 
+[Mon Mar 28 05:19:41 2022 GMT] Mort (Sherry): SIIIIIIIIIIIIIIIIIII
+[Mon Mar 28 05:19:43 2022 GMT] Umi: Aasdasfasdas
+[Mon Mar 28 05:19:46 2022 GMT] Chieru: SIIIIIIIIIIIIIIIIIIIIIII
+[Mon Mar 28 05:19:55 2022 GMT] Alex: *Se cae*
+[Mon Mar 28 05:19:56 2022 GMT] Alex: Ouch.
+[Mon Mar 28 05:19:59 2022 GMT] Umi: Hola Julián, ¿qué tal?
+[Mon Mar 28 05:20:03 2022 GMT] Umi: Vinimos a tu rescate
+[Mon Mar 28 05:20:07 2022 GMT] Mort (Sherry): *lootea al tipo en el piso*
+[Mon Mar 28 05:20:12 2022 GMT] Chieru: A DONDE CREES QUE VAS MIERDA?
+[Mon Mar 28 05:20:22 2022 GMT] Cat: //No tiene ni mierda
+[Mon Mar 28 05:20:30 2022 GMT] Mort (Sherry): Puto giliipollas
+[Mon Mar 28 05:20:34 2022 GMT] Chieru: SECUESTRAS A JULIAN Y AHORA QUIERES CORRER?
+[Mon Mar 28 05:20:38 2022 GMT] Umi: *Carga a Julián*
+[Mon Mar 28 05:20:48 2022 GMT] Cat: Dejenlo, no hizo nada malo.
+[Mon Mar 28 05:21:00 2022 GMT] Cat: //SI
+[Mon Mar 28 05:21:02 2022 GMT] Rina Tennoji: ¿Entonces regreso por el cofre con la recepcionista??
+[Mon Mar 28 05:21:06 2022 GMT] Mort (Sherry): Julián dice que el sujeto debe perecer
+[Mon Mar 28 05:21:15 2022 GMT] Chieru: CLARAMENTE
+[Mon Mar 28 05:21:19 2022 GMT] Umi: ¿Las voces ya me están afectando a un nivel superior o el gato está hablando?
+[Mon Mar 28 05:21:23 2022 GMT] Mort (Sherry): Bueno, lo dejaremos por ahora
+[Mon Mar 28 05:21:26 2022 GMT] Cat: ...
+[Mon Mar 28 05:21:33 2022 GMT] Mort (Sherry): Julián siempre habló, yo se los dije
+[Mon Mar 28 05:21:43 2022 GMT] Alex: *Sale de la habitacion*
+[Mon Mar 28 05:21:45 2022 GMT] Chieru: ELILUMINADO7
+[Mon Mar 28 05:21:45 2022 GMT] KismetCat_HD ha reproducido la canción: Kek.mp3
+[Mon Mar 28 05:22:23 2022 GMT] Mort (Sherry): AHORA GOR ESTÁ OBLIGADO A SIEMPRE PONERA  ESA TIPA A DONDE SEA QUE VAYAMOS
+[Mon Mar 28 05:22:26 2022 GMT] Mort (Sherry): ///
+[Mon Mar 28 05:22:28 2022 GMT] Cat: Estos idiotas me acaban de dar la habilidad de hablar.
+[Mon Mar 28 05:22:37 2022 GMT] Chieru: INCREIBLE
+[Mon Mar 28 05:22:38 2022 GMT] Mort (Sherry): Wow kino
+[Mon Mar 28 05:22:46 2022 GMT] Umi: Wao
+[Mon Mar 28 05:22:46 2022 GMT] Cat: Querían sacarme información porque la otra loca era una espia del imperio.
+[Mon Mar 28 05:22:55 2022 GMT] Rina Tennoji: Perfecto, su sacrificio no fue en vano
+[Mon Mar 28 05:22:58 2022 GMT] Mort (Sherry): Que bueno que vinimos a tiempo
+[Mon Mar 28 05:23:03 2022 GMT] Chieru: CLARAMENTE AHORA QUE HABLAS TE UNIRAS A NUESTRO TEAM EPICO.
+[Mon Mar 28 05:23:14 2022 GMT] Cat: Está bien.
+[Mon Mar 28 05:23:21 2022 GMT] Mort (Sherry): Ahora estás a salvo y vendrás con nosotro de viaje, no puedes regresar así con tu antigua dueña
+[Mon Mar 28 05:23:28 2022 GMT] Cat: Por cierto, aquél sujeto acaba de ser engañado.
+[Mon Mar 28 05:23:35 2022 GMT] Chieru: Que tonto
+[Mon Mar 28 05:23:41 2022 GMT] Cat: De hecho, acaba de darme parte de su inteligencia, y por eso puedo hablar.
+[Mon Mar 28 05:23:46 2022 GMT] Cat: Acaba de volverse mas retrasado.
+[Mon Mar 28 05:23:49 2022 GMT] Chieru: Increible
+[Mon Mar 28 05:23:51 2022 GMT] Mort (Sherry): Por trans
+[Mon Mar 28 05:23:53 2022 GMT] Rina Tennoji: PERFECTO
+[Mon Mar 28 05:23:58 2022 GMT] Chieru: Vos sos mas pro que ese down entonces
+[Mon Mar 28 05:24:09 2022 GMT] Cat: Pueden escuchar a alguien cayendose en la otra habitación.
+[Mon Mar 28 05:24:17 2022 GMT] Alex: Mierda
+[Mon Mar 28 05:24:18 2022 GMT] Mort (Sherry): ja que imbesil
+[Mon Mar 28 05:24:20 2022 GMT] Chieru: INCREIBLE EL PODER DE JULIAN
+[Mon Mar 28 05:24:35 2022 GMT] Mort (Sherry): Bueno por ahora salgamos de aquí
+[Mon Mar 28 05:24:49 2022 GMT] Cat: Muy bien.
+[Mon Mar 28 05:24:53 2022 GMT] Chieru: *Procede a llevarse el cofre con la tipa*
+[Mon Mar 28 05:24:56 2022 GMT] Mort (Sherry): //A LA RECECIONISTA TAMBIÉN PONLA EN GRUPO B
+[Mon Mar 28 05:25:04 2022 GMT] Rina Tennoji: ¿ya cuantos somos en el equipo?
+[Mon Mar 28 05:25:15 2022 GMT] Umi: Aún no los suficientes
+[Mon Mar 28 05:25:45 2022 GMT] Mort (Sherry): Vamos, ya tenemos a Julian y a Josefina como nuevos miembros, ahora debemos crear un barco e ir a otro lado
+[Mon Mar 28 05:25:50 2022 GMT] Mort (Sherry): Aún tienen la madera?
+[Mon Mar 28 05:25:52 2022 GMT] Cat: A cambio de no tener que volver con la perra aquella, los acompañaré.
+[Mon Mar 28 05:25:57 2022 GMT] Chieru: Si.
+[Mon Mar 28 05:26:01 2022 GMT] Mort (Sherry): Okay salgamos
+[Mon Mar 28 05:26:04 2022 GMT] Chieru: Vale
+[Mon Mar 28 05:26:10 2022 GMT] Rina Tennoji: Si
+[Mon Mar 28 05:26:16 2022 GMT] Umi: Vale tío
+[Mon Mar 28 05:26:33 2022 GMT] Mort (Sherry): //LA RECEPCIONISTA
+[Mon Mar 28 05:26:37 2022 GMT] Mort (Sherry): //GRUPO B
+[Mon Mar 28 05:26:38 2022 GMT] Mort (Sherry): //AHORA
+[Mon Mar 28 05:26:45 2022 GMT] Cat: //QUIZAS LUEGO
+[Mon Mar 28 05:26:58 2022 GMT] Mort (Sherry): //LA LLEVAREMOS POR SIEMPRE EN EL COFRE, LE DAREMOS COMIDA ASÍ COMO A JULIÁN
+[Mon Mar 28 05:27:16 2022 GMT] Rina Tennoji: //Y si escapa la atrapamos de nuevo
+[Mon Mar 28 05:27:30 2022 GMT] Cat: //YA 6 PERSONAS SON MI LIMITES NO METAN A NADIE MAS
+[Mon Mar 28 05:27:35 2022 GMT] Mort (Sherry): //OK
+[Mon Mar 28 05:27:45 2022 GMT] Cat: //SI DEJA DE VENIR LO SACO
+[Mon Mar 28 05:28:03 2022 GMT] Josh: *no creo que vuelva
+[Mon Mar 28 05:28:08 2022 GMT] Mort (Sherry): salgamos por el camino del pozo, buscaremos la forma de subir el cofre con las cuerdas y la cadena que se quedó atada por allá
+[Mon Mar 28 05:28:17 2022 GMT] Chieru: VALE
+[Mon Mar 28 05:28:28 2022 GMT] Mort (Sherry): Si salimos por este edificio seguro nos ve gente, es una jabonería total
+[Mon Mar 28 05:28:37 2022 GMT] Umi: Okayyyy
+[Mon Mar 28 05:28:41 2022 GMT] Cat: De hecho creo que esto no es una jaboneria.
+[Mon Mar 28 05:28:46 2022 GMT] Chieru: lol
+[Mon Mar 28 05:28:57 2022 GMT] Rina Tennoji: NOS MINTIO LA RECEPCIONISTA!
+[Mon Mar 28 05:28:59 2022 GMT] Mort (Sherry): Entonces esa tipa me mintió, que bien que la noqueé
+[Mon Mar 28 05:29:06 2022 GMT] Cat: Quizás ella tampoco sabia.
+[Mon Mar 28 05:29:14 2022 GMT] Chieru: Nunca lo sabremos
+[Mon Mar 28 05:29:15 2022 GMT] Mort (Sherry): No importa, salgamos
+[Mon Mar 28 05:29:20 2022 GMT] Cat: Bien.
+[Mon Mar 28 05:29:38 2022 GMT] Mort (Sherry): *transición épica al area del pozo*
+[Mon Mar 28 05:30:00 2022 GMT] Cat: //AL BOSQUE O AL POZO?
+[Mon Mar 28 05:30:13 2022 GMT] Mort (Sherry): *a lo que sea para afuera*
+[Mon Mar 28 05:30:22 2022 GMT] Cat: //AL BOSQUE ENTONCES
+[Mon Mar 28 05:30:38 2022 GMT] Mort (Sherry): *fingimos que dimos todo el camino de vuelta y subimos el cofre con las cuerdas y cadena que obviamente me volví a guardar luego de salir*
+[Mon Mar 28 05:31:03 2022 GMT] Mort (Sherry): *debo ahorrar items*
+[Mon Mar 28 05:31:58 2022 GMT] Cat: 
+[Mon Mar 28 05:32:04 2022 GMT] Cat: ¿A donde vamos a ir ahora?
+[Mon Mar 28 05:32:18 2022 GMT] Chieru: A construir un barco, por?
+[Mon Mar 28 05:32:21 2022 GMT] Mort (Sherry): Un rato *voy por mi cadena y la cuerda del pozo*
+[Mon Mar 28 05:32:25 2022 GMT] Cat: ¿Y luego de eso?
+[Mon Mar 28 05:32:28 2022 GMT] Mort (Sherry): *y vuelvo*
+[Mon Mar 28 05:32:38 2022 GMT] Chieru: Buena pregunta
+[Mon Mar 28 05:32:57 2022 GMT] Mort (Sherry): He vuelto
+[Mon Mar 28 05:32:59 2022 GMT] Cat: //ESPERA MEIGGS
+[Mon Mar 28 05:33:05 2022 GMT] Mort (Sherry): //espero
+[Mon Mar 28 05:33:12 2022 GMT] Mort (Sherry): //pasé por entre los arboles obviamente
+[Mon Mar 28 05:33:19 2022 GMT] Rina Tennoji: ESPERAR
+[Mon Mar 28 05:33:21 2022 GMT] Mort (Sherry): /no me voy a tomar el riesgo de que la tiapa me vea/
+[Mon Mar 28 05:33:27 2022 GMT] Ran: 
+[Mon Mar 28 05:33:34 2022 GMT] Ran: Estaba en la parte de atras de la casa lol
+[Mon Mar 28 05:33:46 2022 GMT] Mort (Sherry): //a puta de mierda
+[Mon Mar 28 05:33:55 2022 GMT] Ran: Que vas a hacer
+[Mon Mar 28 05:33:58 2022 GMT] Chieru: *Construye un barco usando la hacha*
+[Mon Mar 28 05:34:09 2022 GMT] Mort (Sherry): *analizo la situación*
+[Mon Mar 28 05:34:40 2022 GMT] Ran: Se están tardando mucho, quizás debería bajar a buscar a Kim por mi cuenta...
+[Mon Mar 28 05:35:02 2022 GMT] Mort (Sherry): [Okay esperaré un ratito más a que baje]
+[Mon Mar 28 05:35:17 2022 GMT] Mort (Sherry): [Cosa que convenientemente pasará porqeu lo acaba de decir]
+[Mon Mar 28 05:35:23 2022 GMT] Ran: //Tira sleight of hand
+[Mon Mar 28 05:35:27 2022 GMT] Josh: Te recomiendo que no hagas eso si tienes fobia a la sangre.
+[Mon Mar 28 05:35:51 2022 GMT] Chieru: QUE?
+[Mon Mar 28 05:36:00 2022 GMT] Ran: Por supuesto que la oveja negra de los Custard va a decirme algo como eso.
+[Mon Mar 28 05:36:05 2022 GMT] Ran: //Echas a perder 2 troncos lol
+[Mon Mar 28 05:36:12 2022 GMT] Chieru: :'v
+[Mon Mar 28 05:36:16 2022 GMT] Mort (Sherry): //CHE PERO PARA EL BARCO NECESITAMOS LA SOGA Y LAS CADENAS, PARA AMARRAR LOS TRONCOS Y HACER LA BALSA RESISTENTE
+[Mon Mar 28 05:36:24 2022 GMT] Ran: ¿Que quieres?
+[Mon Mar 28 05:36:25 2022 GMT] Mort (Sherry): //PELOTUDO
+[Mon Mar 28 05:36:27 2022 GMT] Chieru: *Se va a talar*
+[Mon Mar 28 05:36:31 2022 GMT] Ran: No se supone que estas buscando a mi gato?
+[Mon Mar 28 05:36:50 2022 GMT] Josh: Si.
+[Mon Mar 28 05:37:02 2022 GMT] Ran: ¿Y donde está?
+[Mon Mar 28 05:37:06 2022 GMT] Mort (Sherry): [Lol y este cuándo vino]
+[Mon Mar 28 05:37:32 2022 GMT] Mort (Sherry): [Bueno] *aprovecha la charla para sacar la cadena y soga del pozo sin ser visto*
+[Mon Mar 28 05:37:42 2022 GMT] Ran: //TIRA SIGILO
+[Mon Mar 28 05:38:17 2022 GMT] Chieru: *Sigue talando*
+[Mon Mar 28 05:38:19 2022 GMT] Mort (Sherry): //cual era
+[Mon Mar 28 05:38:22 2022 GMT] Mort (Sherry): //en ingles
+[Mon Mar 28 05:38:23 2022 GMT] Ran: //STEALTH
+[Mon Mar 28 05:38:42 2022 GMT] Mort (Sherry): //NO METAN AL GATO A NINGUN LADO
+[Mon Mar 28 05:38:48 2022 GMT] Mort (Sherry): //QUEDENSE EN GRUPO
+[Mon Mar 28 05:38:50 2022 GMT] Ran: Te llevas la porqueria.
+[Mon Mar 28 05:38:54 2022 GMT] Josh: Creo que tu gato no quiere estar aqui.
+[Mon Mar 28 05:38:58 2022 GMT] Mort (Sherry): *okay lol chau*
+[Mon Mar 28 05:39:13 2022 GMT] Ran: ...Pierdo el tiempo con ustedes.
+[Mon Mar 28 05:39:15 2022 GMT] Mort (Sherry): Okay vine, vengan al rio para armar la balsa
+[Mon Mar 28 05:39:34 2022 GMT] Rina Tennoji: *Va al rio*
+[Mon Mar 28 05:39:39 2022 GMT] Mort (Sherry): //ok lac tirala al pozo
+[Mon Mar 28 05:39:48 2022 GMT] Ran: Ran simplemente salta al pozo.
+[Mon Mar 28 05:39:55 2022 GMT] Mort (Sherry): //ah piola
+[Mon Mar 28 05:40:11 2022 GMT] Chieru: *Claramente despues de talar, con ayuda de los presentes se construye el barco*
+[Mon Mar 28 05:41:02 2022 GMT] Mort (Sherry): *bueno pues* Pásame todos los troncos que tengas, los usaré para la base de la balsa y los remos
+[Mon Mar 28 05:41:15 2022 GMT] Chieru: *Le pasa los troncos*
+[Mon Mar 28 05:41:20 2022 GMT] Ran: //LAC VAS A REVISAR EL POZO?
+[Mon Mar 28 05:41:23 2022 GMT] Mort (Sherry): Y lo que sobre para hacernos unas paredcitas de soporte y no caernos de lado
+[Mon Mar 28 05:41:27 2022 GMT] Josh: *si*
+[Mon Mar 28 05:41:30 2022 GMT] Ran: //AVISA
+[Mon Mar 28 05:41:59 2022 GMT] Ran: Cuando revisas el fondo del pozo, no ves nada al fondo.
+[Mon Mar 28 05:42:10 2022 GMT] Ran: Solo rastros de un aterrizaje bastante limpio.
+[Mon Mar 28 05:42:15 2022 GMT] Mort (Sherry): *crear una balsa super pro con los troncos y las cuerdas y la cadena, es un coso tipo bore de remos y lancha sabes, de esos largos que no recuerdo
+[Mon Mar 28 05:42:30 2022 GMT] Mort (Sherry): el nombre, tipo kayaks, ya sabes los largos*
+[Mon Mar 28 05:42:53 2022 GMT] Ran: Tira para ver que tan pro es el barco
+[Mon Mar 28 05:42:57 2022 GMT] Mort (Sherry): *como el que pasé por discord
+[Mon Mar 28 05:43:04 2022 GMT] Mort (Sherry): *QUÉ TIRO*
+[Mon Mar 28 05:43:08 2022 GMT] Cat: BUENO MAS QUE BARCO ES UNA BALSA LO QUE VAN A HACER XD
+[Mon Mar 28 05:43:11 2022 GMT] Cat: //
+[Mon Mar 28 05:43:20 2022 GMT] Cat: SLEIGHT OF HAND
+[Mon Mar 28 05:43:21 2022 GMT] Mort (Sherry): *si por eso, es una balsa larga
+[Mon Mar 28 05:43:40 2022 GMT] Cat: GRAN BALSA TIO
+[Mon Mar 28 05:43:41 2022 GMT] Mort (Sherry): *skills de supervivencia
+[Mon Mar 28 05:43:50 2022 GMT] Mort (Sherry): B)
+[Mon Mar 28 05:43:50 2022 GMT] Chieru: Okey, vamonos de aqui
+[Mon Mar 28 05:43:54 2022 GMT] Chieru: A un lugar poblado
+[Mon Mar 28 05:44:10 2022 GMT] Mort (Sherry): Okay hay espacio para todos, y sino pues se sientan unos encima de otros
+[Mon Mar 28 05:44:14 2022 GMT] Cat: JHON WICK
+[Mon Mar 28 05:44:24 2022 GMT] Mort (Sherry): El cofre ocupará algo de espacio así que pantenganlo en el centro de la balsa
+[Mon Mar 28 05:44:31 2022 GMT] Umi: *BARCO.*
+[Mon Mar 28 05:44:32 2022 GMT] Mort (Sherry): mantenganlo*
+[Mon Mar 28 05:44:39 2022 GMT] Chieru: Vale
+[Mon Mar 28 05:44:46 2022 GMT] Mort (Sherry): QUE PASÓ EN EL ROLL20VB AKSBDKASJDM//
+[Mon Mar 28 05:44:54 2022 GMT] Cat: ALCDKSJG4SW
+[Mon Mar 28 05:44:55 2022 GMT] Cat: FC.WPSY
+[Mon Mar 28 05:44:55 2022 GMT] Cat: -GH3Y4H
+[Mon Mar 28 05:45:26 2022 GMT] Cat: BUENO, VAN A ABANDONAR LA ISLA?
+[Mon Mar 28 05:45:33 2022 GMT] Mort (Sherry): *si pero espera*
+[Mon Mar 28 05:45:49 2022 GMT] Mort (Sherry): Vayan subiendo ustedes *num iván y el cofre* Voy por los otros
+[Mon Mar 28 05:45:59 2022 GMT] Chieru: *Se sube al barco con el cofre*
+[Mon Mar 28 05:46:11 2022 GMT] Mort (Sherry): Eh raritos vamos, ya hicimos un barco, podemos irnos
+[Mon Mar 28 05:46:31 2022 GMT] Cat: Para este punto, pueden escuchar una voz que viene desde adentro del cofre.
+[Mon Mar 28 05:46:41 2022 GMT] Mort (Sherry): *carga a julián y jala el cuerpo sin alma de wobbu hacia el barco*
+[Mon Mar 28 05:47:01 2022 GMT] NPC: ¿Eh? ¿Donde estoy?
+[Mon Mar 28 05:47:06 2022 GMT] Mort (Sherry): Creo que ya estamos tod--
+[Mon Mar 28 05:47:08 2022 GMT] Chieru: Hola amiguita, como estas? como te llamas? cual es tu color favorito?
+[Mon Mar 28 05:47:12 2022 GMT] Josh: Aqui estas.
+[Mon Mar 28 05:47:18 2022 GMT] Mort (Sherry): Ah se despertó la niña esa
+[Mon Mar 28 05:47:28 2022 GMT] Recepcionista (NPC): ¿Estoy en el infierno de los despedidos?
+[Mon Mar 28 05:47:32 2022 GMT] Josh: Si.
+[Mon Mar 28 05:47:35 2022 GMT] Chieru: Posiblemente
+[Mon Mar 28 05:47:36 2022 GMT] Umi: Algo así
+[Mon Mar 28 05:47:42 2022 GMT] Recepcionista (NPC): ...Está bien.
+[Mon Mar 28 05:47:45 2022 GMT] Mort (Sherry): Saquenla del cofre, que respire un poco, la ataron antes de meterla verdad?
+[Mon Mar 28 05:47:53 2022 GMT] Chieru: Tu la ataste
+[Mon Mar 28 05:47:56 2022 GMT] Recepcionista (NPC): Entonces supongo que podré dormir otro rato.
+[Mon Mar 28 05:48:00 2022 GMT] Chieru: Si
+[Mon Mar 28 05:48:04 2022 GMT] Umi: Oh, okay
+[Mon Mar 28 05:48:06 2022 GMT] Chieru: *Abre un poco el cofre*
+[Mon Mar 28 05:48:12 2022 GMT] Mort (Sherry): Okay 
+[Mon Mar 28 05:48:17 2022 GMT] Recepcionista (NPC): Está dormida lol
+[Mon Mar 28 05:48:26 2022 GMT] Mort (Sherry): *agarra un remo* que alguien me ayude con el otro
+[Mon Mar 28 05:48:29 2022 GMT] Recepcionista (NPC): //RANCE
+[Mon Mar 28 05:48:39 2022 GMT] Recepcionista (NPC): //despues lo busco
+[Mon Mar 28 05:48:40 2022 GMT] Chieru: *Agarra el otro remo*
+[Mon Mar 28 05:49:05 2022 GMT] Rina Tennoji: ¿entonces quien canta una cancion para remar al mismo tiempo?
+[Mon Mar 28 05:49:11 2022 GMT] Mort (Sherry): Tú
+[Mon Mar 28 05:49:22 2022 GMT] Mort (Sherry): *remar hacia el oeste (izquierda*)
+[Mon Mar 28 05:49:33 2022 GMT] Recepcionista (NPC): Claramente abandonan la isla.
+[Mon Mar 28 05:49:36 2022 GMT] Chieru: *Remar*
+[Mon Mar 28 05:49:49 2022 GMT] Recepcionista (NPC): Hacia nuevos horizontes tios.
+[Mon Mar 28 05:49:52 2022 GMT] Mort (Sherry): *yendo a cajamarca*
+[Mon Mar 28 05:50:00 2022 GMT] Umi: Idaho: En el campo.
+Idaho: En el campo.
+Idaho: A la patáta.
+Idaho: ¡Vamos, todos juntos ya!
+Los Watterson: Whoooooooooooooooooooo.
+[Mon Mar 28 05:50:13 2022 GMT] Recepcionista (NPC): FIN DE LA SESION000==================
+[Mon Mar 28 05:50:14 2022 GMT] Recepcionista (FKNPC_HD) ha reproducido la canción: Ritual.mp3
+[Mon Mar 28 05:50:32 2022 GMT] Mort (Sherry): OK QUE BUENA SESIÓN TÍOS
+[Mon Mar 28 05:50:39 2022 GMT] Cat: ESTO FUE
+[Mon Mar 28 05:50:41 2022 GMT] Cat: LA SEGUNDA MITAD
+[Mon Mar 28 05:50:43 2022 GMT] Cat: DE LA ANTERIOR
+[Mon Mar 28 05:50:45 2022 GMT] Cat: BUENO NI MITAD
+[Mon Mar 28 05:50:46 2022 GMT] Mort (Sherry): SI
+[Mon Mar 28 05:50:47 2022 GMT] Cat: ULTIMA PARTE
+[Mon Mar 28 05:50:54 2022 GMT] Cat: AHORA NO SE A DONDE MANDARLOS
+[Mon Mar 28 05:51:08 2022 GMT] Cat: TENIA PENSADO HACER QUE ESTO SEA UN UNIVERSO ALTERNATIVO RESPECTO AL OTRO GRUPO
+[Mon Mar 28 05:51:12 2022 GMT] Mort (Sherry): CUALQUIER CIUDAD QUE CREAS CERCAMA
+[Mon Mar 28 05:51:16 2022 GMT] Mort (Sherry): OK
+[Mon Mar 28 05:51:23 2022 GMT] Mort (Sherry): NUESTROS GRUPOS SUCEDEN EN FECHAS DIFERENTES
+[Mon Mar 28 05:51:31 2022 GMT] Cat: SUS ACTOS NO SON DE SU MUNDO.
+[Mon Mar 28 05:51:37 2022 GMT] Mort (Sherry): MISMO MUNDO PERO FECHAS DIFERENTES
+[Mon Mar 28 05:51:47 2022 GMT] Mort (Sherry): EN ALGUN PUNTO ELLOS NOS ECNUENTRAN
+[Mon Mar 28 05:51:55 2022 GMT] Mort (Sherry): PERO PARA ELLOS ES COMO SI YA HUBIERAN TENIDO 2 AÑOS DE AVENTURA
+[Mon Mar 28 05:51:59 2022 GMT] Mort (Sherry): MIENTRAS NOSOTROS ES EL PRESENTE
+[Mon Mar 28 05:52:13 2022 GMT] Mort (Sherry): CLARO
+[Mon Mar 28 05:52:13 2022 GMT] Cat: NO PORQUE QUIERO RECICLAR MAPAS Y NPCS XD
+[Mon Mar 28 05:52:21 2022 GMT] Mort (Sherry): BUENO
+[Mon Mar 28 05:52:28 2022 GMT] Rina Tennoji: ¿Y si en realidad estamos en un what if?
+[Mon Mar 28 05:52:30 2022 GMT] Mort (Sherry): MISMO TIEMPO Y FECHAS PERO DIFERENTES LOCACIONES
+[Mon Mar 28 05:52:42 2022 GMT] Cat: PER OBOLUDO ESO ES LO QUE PENSABA
+[Mon Mar 28 05:52:52 2022 GMT] Cat: POR ESO
+[Mon Mar 28 05:52:54 2022 GMT] Cat: LE DIGO A CDCM
+[Mon Mar 28 05:52:58 2022 GMT] Mort (Sherry): OKAY
+[Mon Mar 28 05:53:02 2022 GMT] Cat: SIMPLEMENTE UN UNIVERSO ALTERNATIVO
+[Mon Mar 28 05:53:12 2022 GMT] Mort (Sherry): NO SERÍA UNIVERSO ALTERNO
+[Mon Mar 28 05:53:17 2022 GMT] Cat: LITERAL
+[Mon Mar 28 05:53:24 2022 GMT] Cat: VAN A ENCONTRAR A LOS OTROS
+[Mon Mar 28 05:53:25 2022 GMT] Cat: PERO COMO NPCS
+[Mon Mar 28 05:53:29 2022 GMT] Mort (Sherry): AH BUENO
+[Mon Mar 28 05:53:36 2022 GMT] Rina Tennoji: Ya me imagino a HolaAA y CDCM carreando la partida contra VENOM
+[Mon Mar 28 05:53:39 2022 GMT] Cat: SISI
+[Mon Mar 28 05:53:42 2022 GMT] Mort (Sherry): BIEN
+[Mon Mar 28 05:53:54 2022 GMT] Cat: TENGO QUE HACER LOS CALCULOS
+[Mon Mar 28 05:53:56 2022 GMT] Cat: LOS HAGO AHORA
+[Mon Mar 28 05:54:06 2022 GMT] Mort (Sherry): OKAY AUN HAY TIEMPO ANTES DE DORMIR
+[Mon Mar 28 05:54:18 2022 GMT] Mort (Sherry): ANOCHE ME DORMÍ SOLO 4 HORAS
+[Mon Mar 28 05:55:14 2022 GMT] Mort (Sherry): OKAY CAMBIÉ MI ALINEACIÓN
+[Mon Mar 28 05:55:23 2022 GMT] Mort (Sherry): DISCORD
+[Mon Mar 28 05:55:39 2022 GMT] Mort (Sherry): DISCORD  !
+[Mon Mar 28 05:55:44 2022 GMT] Mort (Sherry): GENERAL
+[Mon Mar 28 05:55:45 2022 GMT] Mort (Sherry): MIRA
+[Mon Mar 28 05:56:05 2022 GMT] Mort (Sherry): ESTÁ EN GENERAL
+[Mon Mar 28 05:56:13 2022 GMT] Cat: 750 XP PARA TODOS LOL
+[Mon Mar 28 05:56:15 2022 GMT] Cat: BUENA
+[Mon Mar 28 05:56:23 2022 GMT] Mort (Sherry): SUBIMOS DE NIVEL ALGUNO?
+[Mon Mar 28 05:56:59 2022 GMT] Cat: SOLO SUMATE 750 DE XP
+[Mon Mar 28 05:57:00 2022 GMT] Cat: NO NUM
+[Mon Mar 28 05:57:13 2022 GMT] Mort (Sherry): ME SUMO ESO Y TENGO 1650 DE EXP
+[Mon Mar 28 05:57:17 2022 GMT] Cat: OK
+[Mon Mar 28 05:57:18 2022 GMT] Mort (Sherry): SUBO DE NIVEL?
+[Mon Mar 28 05:57:21 2022 GMT] Cat: SI TE SALE
+[Mon Mar 28 05:57:23 2022 GMT] Cat: UN YUNQUE AL LADO
+[Mon Mar 28 05:57:24 2022 GMT] Cat: DE LA XP
+[Mon Mar 28 05:57:26 2022 GMT] Cat: ENTONCES SI
+[Mon Mar 28 05:57:28 2022 GMT] Cat: NO NUM
+[Mon Mar 28 05:57:29 2022 GMT] Cat: NO
+[Mon Mar 28 05:57:30 2022 GMT] Cat: 1 VEZ
+[Mon Mar 28 05:57:46 2022 GMT] Mort (Sherry): OK NO ME SALE
+[Mon Mar 28 05:57:52 2022 GMT] Cat: BUENO ENTONCES NO XD
+[Mon Mar 28 05:57:54 2022 GMT] Cat: HAY ANCLADA
+[Mon Mar 28 05:57:55 2022 GMT] Mort (Sherry): XD
+[Mon Mar 28 05:57:55 2022 GMT] Cat: EN GENERAL
+[Mon Mar 28 05:57:57 2022 GMT] Cat: UNA TABLA DE NIVELES
+[Mon Mar 28 05:58:08 2022 GMT] Mort (Sherry): BUENO
+[Mon Mar 28 05:58:11 2022 GMT] Cat: QUE DICE CUANTA XP CORRESPONDE A QUE NIVEL
+[Mon Mar 28 05:58:19 2022 GMT] Cat: SI TE DAN A ELEGIR SI ELIGE
+[Mon Mar 28 05:58:56 2022 GMT] Cat: NO SE ELIJAN MULTICLASE
+[Mon Mar 28 05:58:58 2022 GMT] Cat: NO
+[Mon Mar 28 05:59:00 2022 GMT] Cat: 01
+[Mon Mar 28 05:59:01 2022 GMT] Cat: 1
+[Mon Mar 28 05:59:02 2022 GMT] Cat: 11
+[Mon Mar 28 05:59:02 2022 GMT] Cat: 1
+[Mon Mar 28 05:59:03 2022 GMT] Cat: 111111111
+[Mon Mar 28 05:59:05 2022 GMT] Cat: 011010101001111111111
+[Mon Mar 28 05:59:12 2022 GMT] Cat: -.-.-- / .____.---- /
+[Mon Mar 28 05:59:21 2022 GMT] Cat: NI ASI
+[Mon Mar 28 05:59:29 2022 GMT] Umi:  .____.
+[Mon Mar 28 05:59:30 2022 GMT] Cat: LAS QUE TE DEJE
+[Mon Mar 28 05:59:51 2022 GMT] Mort (Sherry): BUENO ALGO MÁS QUE SEA IMPORTANTE QUE DEBAMOS HACER EN EL ROLL20?
+[Mon Mar 28 06:00:26 2022 GMT] Josh: the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+[Mon Mar 28 06:00:32 2022 GMT] Josh: QUE SIGNIFICA ESTO?
+[Mon Mar 28 06:00:33 2022 GMT] Josh: 
+[Mon Mar 28 06:00:59 2022 GMT] Josh: QUE ES HIT POINT MAXIMUM?
+[Mon Mar 28 06:01:13 2022 GMT] Cat: QUE SI ALGO TIENE MENOS DE SU MAXIMO DE HP
+[Mon Mar 28 06:01:16 2022 GMT] Cat: Y LE PEGAS
+[Mon Mar 28 06:01:24 2022 GMT] Cat: LE PEGAS 1D8 ADICIONAL
+[Mon Mar 28 06:01:41 2022 GMT] Mort (Sherry): BUENO NADA MÁS PARA HACER EN EL ROLL20?
+[Mon Mar 28 06:01:45 2022 GMT] Cat: NO
+[Mon Mar 28 06:01:50 2022 GMT] Mort (Sherry): OKAY ENTONCES ES HORA DE MORIR
+[Mon Mar 28 06:01:52 2022 GMT] Mort (Sherry): CHAU MAIGOS
+[Mon Mar 28 06:02:09 2022 GMT] Rina Tennoji: CHAO CARLOS DANIEL CONCHA MEIGGS
