@@ -20,7 +20,7 @@ class Matar {
         if(message.mentions.members.size > 0){
             
             const [primerArgumento] = args.split(' ')
-            const mentionRegExp = /(<@![0-9]+>)/
+            const mentionRegExp = /<@!*&*[0-9]+>/
             const esDesgraciado = (str) => mentionRegExp.test(str)
 
             if (!esDesgraciado(primerArgumento)) return message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD DIME A QUIEN ASESINAR`)

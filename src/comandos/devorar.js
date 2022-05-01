@@ -7,7 +7,7 @@ class Devorar {
     async run(message, args) {
         if(message.mentions.members.size <= 0) return message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD`)
         const [primerArgumento] = args.split(' ')
-        const mentionRegExp = /(<@![0-9]+>)/
+        const mentionRegExp = /<@!*&*[0-9]+>/
         const esDesgraciado = (str) => mentionRegExp.test(str)
         if (!esDesgraciado(primerArgumento)) return message.channel.send(`${message.author} <<<<<<<<<<<<<<< PUTO IMBECIL XD DIME A QUIEN DEVORAR`)
         const desgraciado = message.mentions.members.first();
