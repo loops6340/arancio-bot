@@ -1,18 +1,22 @@
 const { default: axios } = require("axios")
 const DiscordJS = require("discord.js")
-const { Client, Intents, MessageAttachment, MessageMentions } = require('discord.js');
+const { Client, Intents, MessageAttachment, MessageMentions, Guild, GuildMember } = require('discord.js');
 require("dotenv").config()
 const fs = require('fs')
 const path = require('path')
 
 
-
 const client = new DiscordJS.Client({
   intents: [
     "GUILDS",
-    "GUILD_MESSAGES"
+    "GUILD_MESSAGES",
+    "GUILD_MEMBERS",
+    "GUILD_PRESENCES"
   ]
 })
+
+
+
 
 
 
