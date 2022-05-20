@@ -11,7 +11,8 @@ const client = new DiscordJS.Client({
     "GUILDS",
     "GUILD_MESSAGES",
     "GUILD_MEMBERS",
-    "GUILD_PRESENCES"
+    "GUILD_PRESENCES",
+    "GUILD_VOICE_STATES"    
   ]
 })
 
