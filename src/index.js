@@ -4,6 +4,7 @@ const { Client, Intents, MessageAttachment, MessageMentions, Guild, GuildMember 
 require("dotenv").config()
 const fs = require('fs')
 const path = require('path')
+const {db} = require('./db/db.js')
 
 
 const client = new DiscordJS.Client({
@@ -30,6 +31,7 @@ let bot = {
 
 client.on('ready', () => {
   console.log("HOLA CABRONES XD HIJOS DE SUS PUTAS MADRES")
+  db.sync()
   client.user.setActivity('GORE.', { type: 'WATCHING' });
 })
 
