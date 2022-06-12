@@ -1,6 +1,5 @@
 const { default: axios } = require("axios")
 const DiscordJS = require("discord.js")
-const { Client, Intents, MessageAttachment, MessageMentions, Guild, GuildMember } = require('discord.js');
 require("dotenv").config()
 const fs = require('fs')
 const path = require('path')

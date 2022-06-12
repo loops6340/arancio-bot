@@ -3,7 +3,7 @@ const modelTag = require('./models/Tag')
 const { Sequelize, DataTypes, Model } = require("sequelize");
 
 const sequelize = new Sequelize(
-  "postgres://postgres:GORDOPUTO1@localhost:5432/asoplata"
+  `postgres://${process.env.DB_USER}:${process.env.DB_PASSWORD}@localhost:5432/asoplata`
 );
 
 modelTag(sequelize)
