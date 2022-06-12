@@ -27,7 +27,8 @@
     "request": "^2.88.2",
     "sequelize": "^6.20.0",
     "twitter": "^1.7.1",
-    "unorm": "^1.6.0"
+    "unorm": "^1.6.0",
+    "vndb-api": "^1.0.3"
   },
   "repository": {
     "type": "git",
