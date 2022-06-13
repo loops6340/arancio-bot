@@ -9,7 +9,7 @@ class Kinocg {
         const {large_file_url, tag_string_character, tag_string_copyright} = danbooruReq.data
 
         const splitAndCap = (stringP) => {
-            let split = string.split('_')
+            let split = stringP.split('_')
             if(split.length === 1){
                 let string = stringP
                 string = stringP[0].toUpperCase() + stringP.substr(1)
