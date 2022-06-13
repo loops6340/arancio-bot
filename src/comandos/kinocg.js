@@ -12,6 +12,7 @@ class Kinocg {
             let split = stringP.split('_')
             if(split.length === 1){
                 let string = stringP
+                console.log(stringP, string)
                 string = stringP[0].toUpperCase() + stringP.substr(1)
                 return string
             }
