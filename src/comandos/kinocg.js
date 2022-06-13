@@ -10,19 +10,11 @@ class Kinocg {
 
         const splitAndCap = (stringP) => {
             let split = stringP.split('_')
-            if(split.length === 1){
-                let string = stringP
-                console.log(stringP, string)
-                string = stringP[0].toUpperCase() + stringP.substr(1)
-                return string
-            }
-            else{
                 let string = ''
                 split.forEach(p => {
                     string +=  p[0].toUpperCase() + p.substr(1) + " "
                 })
                 return string
-        }
         }
 
         message.channel.send(`${splitAndCap(tag_string_character)} - ${splitAndCap(tag_string_copyright)} ${large_file_url}`)
