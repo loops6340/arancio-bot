@@ -8,11 +8,11 @@ class Kinocg {
 
         const {large_file_url, tag_string_character, tag_string_copyright} = danbooruReq.data
 
-        const splitAndCap = (string) => {
+        const splitAndCap = (stringP) => {
             let split = string.split('_')
             if(split.length === 1){
-                let string = string
-                string = string[0].toUpperCase() + string.substr(1)
+                let string = stringP
+                string = stringP[0].toUpperCase() + stringP.substr(1)
                 return string
             }
             else{
