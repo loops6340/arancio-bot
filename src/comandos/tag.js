@@ -1,5 +1,4 @@
 const { db } = require("../db/db.js");
-const fetch = require("node-fetch");
 const axios = require("axios");
 const { MessageEmbed } = require('discord.js');
 
