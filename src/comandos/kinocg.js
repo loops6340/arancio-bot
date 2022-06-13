@@ -8,7 +8,10 @@ class Kinocg {
 
         const {large_file_url, tag_string_character, tag_string_copyright} = danbooruReq.data
 
+        if(!large_file_url) return message.channel.send('error lol')
+
         const splitAndCap = (stringP) => {
+            if(!stringP) return ""
             let split = stringP.split('_')
                 let string = ''
                 split.forEach(p => {
