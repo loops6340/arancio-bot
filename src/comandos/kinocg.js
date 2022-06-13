@@ -29,4 +29,4 @@ class Kinocg {
     }
 }
 
-modules.exports = Kinocg
+module.exports = Kinocg
