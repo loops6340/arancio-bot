@@ -24,7 +24,7 @@ class Kinocg {
         }
         }
 
-        message.channel.send(`${splitAndCap(tag_string_character)} - ${tag_string_copyright}\d${large_file_url}`)
+        message.channel.send(`${splitAndCap(tag_string_character)} - ${tag_string_copyright} ${large_file_url}`)
 
     }
 }
