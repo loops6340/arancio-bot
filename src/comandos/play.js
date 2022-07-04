@@ -24,7 +24,7 @@ class Play{
         console.log(`${__dirname}/../musica/Dragon Ball AF Dies Irae.mp3`)
         player.play(resource)
 
-        console.log()
+        //testconsole.log()
 
      }
 }
